@@ -63,6 +63,7 @@
     <section class="row justify-content-center mt-3">
         <p>&copy;CopyRight 2017. All Rights Reserved</p>
     </section>
+    <?php wp_footer(); ?>
 </footer>
 </body>
 </html>
