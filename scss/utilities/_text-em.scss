@@ -1,0 +1,5 @@
+@for $i from 1 through 10{
+    .text-em-#{$i}{
+        font-size:#{$i}em;
+    }
+}

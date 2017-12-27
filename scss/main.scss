@@ -1,0 +1,28 @@
+
+//Include parts of Bootstrap
+@import "vendors/bootstrap/functions";
+@import "vendors/bootstrap/variables";
+@import "vendors/bootstrap/mixins";
+@import "vendors/bootstrap/root";
+@import "vendors/bootstrap/reboot";
+@import "vendors/bootstrap/images";
+@import "vendors/bootstrap/grid";
+@import "vendors/bootstrap/forms";
+@import "vendors/bootstrap/buttons";
+@import "vendors/bootstrap/transitions";
+@import "vendors/bootstrap/dropdown";
+@import "vendors/bootstrap/nav";
+@import "vendors/bootstrap/navbar";
+@import "vendors/bootstrap/card";
+@import "vendors/bootstrap/utilities";
+
+//custom
+@import 'utilities/index';
+@import 'utilities/variables';
+@import 'modules/hero';
+@import 'modules/nav';
+@import 'modules/rating';
+
+
+
+

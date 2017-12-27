@@ -1,0 +1,19 @@
+.position{
+    @for $i from 0 through 10{
+        &-top-#{$i}{
+            top:#{$i}em;
+        }
+
+        &-left-#{$i}{
+            left:#{$i}em;
+        }
+
+        &-right-#{$i}{
+            right:#{$i}em;
+        }
+
+        &-bottom-#{$i}{
+            bottom:#{$i}em;
+        }
+    }
+}
