@@ -1,19 +1,50 @@
-.position{
-    @for $i from 0 through 10{
-        &-top-#{$i}{
-            top:#{$i}em;
-        }
+$position: top, right, bottom, left;
 
-        &-left-#{$i}{
-            left:#{$i}em;
-        }
-
-        &-right-#{$i}{
-            right:#{$i}em;
-        }
-
-        &-bottom-#{$i}{
-            bottom:#{$i}em;
-        }
+@for $i from 0 through 10{
+  @each $pos in $position {
+    #{$pos}-#{$i*10}{
+      #{$pos}:#{$i*10}em;
     }
+  }
 }
+
+@media (min-width: 576px){
+  @for $i from 0 through 10{
+    @each $pos in $position {
+      #{$pos}-sm-#{$i*10}{
+        #{$pos}:#{$i*10}em;
+    }
+   }
+  }
+}
+
+@media (min-width: 768px){
+  @for $i from 0 through 10{
+    @each $pos in $position {
+      #{$pos}-md-#{$i*10}{
+        #{$pos}:#{$i*10}em;
+    }
+   }
+  }
+}
+
+@media (min-width: 992px){
+  @for $i from 0 through 10{
+    @each $pos in $position {
+      #{$pos}-lg-#{$i*10}{
+        #{$pos}:#{$i*10}em;
+    }
+   }
+  }
+}
+
+@media (min-width: 1200px){
+  @for $i from 0 through 10{
+    @each $pos in $position {
+      #{$pos}-xl-#{$i*10}{
+        #{$pos}:#{$i*10}em;
+    }
+   }
+  }
+}
+

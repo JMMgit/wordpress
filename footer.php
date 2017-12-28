@@ -1,19 +1,21 @@
-<footer class="container-fluid bg-light pt-4">
+<footer class="container-fluid bg-light">
     <section class="row align-items-start justify-content-around">
-        <section class="col-md-3 col-sm-11 p-0 d-flex justify-content-between">
-                <div>
+        <section class="col-md-3 col-sm-11 p-0 justify-content-between pt-4">
+                <h3 class="text-center">Other Options</h3>
+                <div class="d-inline-block">
                     <a class="nav-link" href="#">Home</a>
                     <a class="nav-link" href="#">Site Map</a>
                     <a class="nav-link" href="#">Terms and Condition</a>
                     <a class="nav-link" href="#">Privacy Policy</a>
                 </div>
-                <div>
+                <div class="d-inline-block">
+                    <a class="nav-link" href="#">Careers</a>
                     <a class="nav-link" href="#">Cookies</a>
                     <a class="nav-link" href="#">FAQ</a>
                     <a class="nav-link" href="#">Support</a>
                 </div>
         </section>
-            <section class="col-md-3 col-sm-11 p-0">
+            <section class="col-md-3 col-sm-11 pt-4">
                     <form class="">
                         <h3 class="text-center">Join Our NewsLetter</h3>
                         <div class="form-group d-flex flex-column">
@@ -22,38 +24,38 @@
                         </div>
                     </form>
             </section>
-            <section class="col-md-3 col-sm-11 p-0">
+            <section class="col-md-3 col-sm-11 pt-4">
                 <div class="container">
-                    <div class="row">
+                    <div class="row mb-2">
                         <div class="col"><h3 class="text-center">Connect With Us</h3></div>
                     </div>
                     <div class="row">
                         <div class="container col-md-6">
                             <div class="row align-items-center no-gutters mb-2">
-                                <a class="col-md-5 m-0" href="#"><img class="rounded w-75 h-100" src="../crs/img/facebook.png"></a>
-                                <p class="col-md-7 m-0">Facebook</p>
+                                <a class="col m-0" href="#"><img class="rounded w-75 h-100" src="<?php bloginfo('template_url'); ?>/img/facebook.png" alt="facebook"></a>
+                                <p class="col m-0">Facebook</p>
                             </div>
                             <div class="row align-items-center no-gutters mb-2">
-                                <a class="col-md-5 m-0" href="#"><img class="rounded w-75 h-100" src="../crs/img/youtube.png"></a>
-                                <p class="col-md-7 m-0">Youtube</p>
+                                <a class="col m-0" href="#"><img class="rounded w-75 h-100" src="<?php bloginfo('template_url'); ?>/img/youtube.png" alt="youtube"></a>
+                                <p class="col m-0">Youtube</p>
                             </div>                      
                             <div class="row align-items-center no-gutters mb-2">
-                                <a class="col-md-5 m-0" href="#"><img class="rounded w-75 h-100" src="../crs/img/instagram.png"></a>
-                                <p class="col-md-7 m-0">Instagram</p>
+                                <a class="col m-0" href="#"><img class="rounded w-75 h-100" src="<?php bloginfo('template_url'); ?>/img/instagram.png" alt="instagram"></a>
+                                <p class="col m-0">Instagram</p>
                             </div>
                         </div>
                         <div class="container col-md-6">
                             <div class="row align-items-center no-gutters mb-2">
-                                <a class="col-md-5 m-0" href="#"><img class="rounded w-75 h-100" src="../crs/img/pinterest.png"></a>
-                                <p class="col-md-7 m-0">Pinterest </p>
+                                <a class="col m-0" href="#"><img class="rounded w-75 h-100" src="<?php bloginfo('template_url'); ?>/img/pinterest.png" alt="pinterest"></a>
+                                <p class="col m-0">Pinterest </p>
                             </div>
                             <div class="row align-items-center no-gutters mb-2">
-                                <a class="col-md-5 m-0" href="#"><img class="rounded w-75 h-100" src="../crs/img/skype.png"></a>
-                                <p class="col-md-7 m-0">Youtube</p>
+                                <a class="col m-0" href="#"><img class="rounded w-75 h-100" src="<?php bloginfo('template_url'); ?>/img/skype.png" alt="skype"></a>
+                                <p class="col m-0">Youtube</p>
                             </div>                      
                             <div class="row align-items-center no-gutters mb-2">
-                                <a class="col-md-5 m-0" href="#"><img class="rounded w-75 h-100" src="../crs/img/twitter.png"></a>
-                                <p class="col-md-7 m-0">Youtube</p>
+                                <a class="col m-0" href="#"><img class="rounded w-75 h-100" src="<?php bloginfo('template_url'); ?>/img/twitter.png" alt="twitter"></a>
+                                <p class="col m-0">Twitter</p>
                             </div>
                         </div>
                     </div>

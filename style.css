@@ -1,10 +1,3 @@
-/*Theme Name: RentAcar.
-Theme URI:
-Description: A brief description.
-Version: 1.0
-Author: 
-Author URI: 
-*/
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -4598,96 +4591,6 @@ a.text-dark:focus, a.text-dark:hover {
 .invisible {
   visibility: hidden !important; }
 
-.pt-vh-10 {
-  padding-top: 10vh; }
-
-.pt-vh-20 {
-  padding-top: 20vh; }
-
-.pt-vh-30 {
-  padding-top: 30vh; }
-
-.pt-vh-40 {
-  padding-top: 40vh; }
-
-.pt-vh-50 {
-  padding-top: 50vh; }
-
-.pt-vh-60 {
-  padding-top: 60vh; }
-
-.pt-vh-70 {
-  padding-top: 70vh; }
-
-.pt-vh-80 {
-  padding-top: 80vh; }
-
-.pt-vh-90 {
-  padding-top: 90vh; }
-
-.pt-vh-100 {
-  padding-top: 100vh; }
-
-.vh-10 {
-  height: 10vh; }
-
-.vh-20 {
-  height: 20vh; }
-
-.vh-30 {
-  height: 30vh; }
-
-.vh-40 {
-  height: 40vh; }
-
-.vh-50 {
-  height: 50vh; }
-
-.vh-60 {
-  height: 60vh; }
-
-.vh-70 {
-  height: 70vh; }
-
-.vh-80 {
-  height: 80vh; }
-
-.vh-90 {
-  height: 90vh; }
-
-.vh-100 {
-  height: 100vh; }
-
-.vw-10 {
-  width: 10vw; }
-
-.vw-20 {
-  width: 20vw; }
-
-.vw-30 {
-  width: 30vw; }
-
-.vw-40 {
-  width: 40vw; }
-
-.vw-50 {
-  width: 50vw; }
-
-.vw-60 {
-  width: 60vw; }
-
-.vw-70 {
-  width: 70vw; }
-
-.vw-80 {
-  width: 80vw; }
-
-.vw-90 {
-  width: 90vw; }
-
-.vw-100 {
-  width: 100vw; }
-
 .text-em-1 {
   font-size: 1em; }
 
@@ -4718,134 +4621,694 @@ a.text-dark:focus, a.text-dark:hover {
 .text-em-10 {
   font-size: 10em; }
 
-.min-vh-1 {
-  min-height: 1vh; }
-
-.min-vh-2 {
-  min-height: 2vh; }
-
-.min-vh-3 {
-  min-height: 3vh; }
-
-.min-vh-4 {
-  min-height: 4vh; }
-
-.min-vh-5 {
-  min-height: 5vh; }
-
-.min-vh-6 {
-  min-height: 6vh; }
-
-.min-vh-7 {
-  min-height: 7vh; }
-
-.min-vh-8 {
-  min-height: 8vh; }
-
-.min-vh-9 {
-  min-height: 9vh; }
-
-.min-vh-10 {
-  min-height: 10vh; }
-
-.position-top-0 {
+top-0 {
   top: 0em; }
-.position-left-0 {
-  left: 0em; }
-.position-right-0 {
+
+right-0 {
   right: 0em; }
-.position-bottom-0 {
+
+bottom-0 {
   bottom: 0em; }
-.position-top-1 {
-  top: 1em; }
-.position-left-1 {
-  left: 1em; }
-.position-right-1 {
-  right: 1em; }
-.position-bottom-1 {
-  bottom: 1em; }
-.position-top-2 {
-  top: 2em; }
-.position-left-2 {
-  left: 2em; }
-.position-right-2 {
-  right: 2em; }
-.position-bottom-2 {
-  bottom: 2em; }
-.position-top-3 {
-  top: 3em; }
-.position-left-3 {
-  left: 3em; }
-.position-right-3 {
-  right: 3em; }
-.position-bottom-3 {
-  bottom: 3em; }
-.position-top-4 {
-  top: 4em; }
-.position-left-4 {
-  left: 4em; }
-.position-right-4 {
-  right: 4em; }
-.position-bottom-4 {
-  bottom: 4em; }
-.position-top-5 {
-  top: 5em; }
-.position-left-5 {
-  left: 5em; }
-.position-right-5 {
-  right: 5em; }
-.position-bottom-5 {
-  bottom: 5em; }
-.position-top-6 {
-  top: 6em; }
-.position-left-6 {
-  left: 6em; }
-.position-right-6 {
-  right: 6em; }
-.position-bottom-6 {
-  bottom: 6em; }
-.position-top-7 {
-  top: 7em; }
-.position-left-7 {
-  left: 7em; }
-.position-right-7 {
-  right: 7em; }
-.position-bottom-7 {
-  bottom: 7em; }
-.position-top-8 {
-  top: 8em; }
-.position-left-8 {
-  left: 8em; }
-.position-right-8 {
-  right: 8em; }
-.position-bottom-8 {
-  bottom: 8em; }
-.position-top-9 {
-  top: 9em; }
-.position-left-9 {
-  left: 9em; }
-.position-right-9 {
-  right: 9em; }
-.position-bottom-9 {
-  bottom: 9em; }
-.position-top-10 {
+
+left-0 {
+  left: 0em; }
+
+top-10 {
   top: 10em; }
-.position-left-10 {
-  left: 10em; }
-.position-right-10 {
+
+right-10 {
   right: 10em; }
-.position-bottom-10 {
+
+bottom-10 {
   bottom: 10em; }
 
+left-10 {
+  left: 10em; }
+
+top-20 {
+  top: 20em; }
+
+right-20 {
+  right: 20em; }
+
+bottom-20 {
+  bottom: 20em; }
+
+left-20 {
+  left: 20em; }
+
+top-30 {
+  top: 30em; }
+
+right-30 {
+  right: 30em; }
+
+bottom-30 {
+  bottom: 30em; }
+
+left-30 {
+  left: 30em; }
+
+top-40 {
+  top: 40em; }
+
+right-40 {
+  right: 40em; }
+
+bottom-40 {
+  bottom: 40em; }
+
+left-40 {
+  left: 40em; }
+
+top-50 {
+  top: 50em; }
+
+right-50 {
+  right: 50em; }
+
+bottom-50 {
+  bottom: 50em; }
+
+left-50 {
+  left: 50em; }
+
+top-60 {
+  top: 60em; }
+
+right-60 {
+  right: 60em; }
+
+bottom-60 {
+  bottom: 60em; }
+
+left-60 {
+  left: 60em; }
+
+top-70 {
+  top: 70em; }
+
+right-70 {
+  right: 70em; }
+
+bottom-70 {
+  bottom: 70em; }
+
+left-70 {
+  left: 70em; }
+
+top-80 {
+  top: 80em; }
+
+right-80 {
+  right: 80em; }
+
+bottom-80 {
+  bottom: 80em; }
+
+left-80 {
+  left: 80em; }
+
+top-90 {
+  top: 90em; }
+
+right-90 {
+  right: 90em; }
+
+bottom-90 {
+  bottom: 90em; }
+
+left-90 {
+  left: 90em; }
+
+top-100 {
+  top: 100em; }
+
+right-100 {
+  right: 100em; }
+
+bottom-100 {
+  bottom: 100em; }
+
+left-100 {
+  left: 100em; }
+
+@media (min-width: 576px) {
+  top-sm-0 {
+    top: 0em; }
+
+  right-sm-0 {
+    right: 0em; }
+
+  bottom-sm-0 {
+    bottom: 0em; }
+
+  left-sm-0 {
+    left: 0em; }
+
+  top-sm-10 {
+    top: 10em; }
+
+  right-sm-10 {
+    right: 10em; }
+
+  bottom-sm-10 {
+    bottom: 10em; }
+
+  left-sm-10 {
+    left: 10em; }
+
+  top-sm-20 {
+    top: 20em; }
+
+  right-sm-20 {
+    right: 20em; }
+
+  bottom-sm-20 {
+    bottom: 20em; }
+
+  left-sm-20 {
+    left: 20em; }
+
+  top-sm-30 {
+    top: 30em; }
+
+  right-sm-30 {
+    right: 30em; }
+
+  bottom-sm-30 {
+    bottom: 30em; }
+
+  left-sm-30 {
+    left: 30em; }
+
+  top-sm-40 {
+    top: 40em; }
+
+  right-sm-40 {
+    right: 40em; }
+
+  bottom-sm-40 {
+    bottom: 40em; }
+
+  left-sm-40 {
+    left: 40em; }
+
+  top-sm-50 {
+    top: 50em; }
+
+  right-sm-50 {
+    right: 50em; }
+
+  bottom-sm-50 {
+    bottom: 50em; }
+
+  left-sm-50 {
+    left: 50em; }
+
+  top-sm-60 {
+    top: 60em; }
+
+  right-sm-60 {
+    right: 60em; }
+
+  bottom-sm-60 {
+    bottom: 60em; }
+
+  left-sm-60 {
+    left: 60em; }
+
+  top-sm-70 {
+    top: 70em; }
+
+  right-sm-70 {
+    right: 70em; }
+
+  bottom-sm-70 {
+    bottom: 70em; }
+
+  left-sm-70 {
+    left: 70em; }
+
+  top-sm-80 {
+    top: 80em; }
+
+  right-sm-80 {
+    right: 80em; }
+
+  bottom-sm-80 {
+    bottom: 80em; }
+
+  left-sm-80 {
+    left: 80em; }
+
+  top-sm-90 {
+    top: 90em; }
+
+  right-sm-90 {
+    right: 90em; }
+
+  bottom-sm-90 {
+    bottom: 90em; }
+
+  left-sm-90 {
+    left: 90em; }
+
+  top-sm-100 {
+    top: 100em; }
+
+  right-sm-100 {
+    right: 100em; }
+
+  bottom-sm-100 {
+    bottom: 100em; }
+
+  left-sm-100 {
+    left: 100em; } }
+@media (min-width: 768px) {
+  top-md-0 {
+    top: 0em; }
+
+  right-md-0 {
+    right: 0em; }
+
+  bottom-md-0 {
+    bottom: 0em; }
+
+  left-md-0 {
+    left: 0em; }
+
+  top-md-10 {
+    top: 10em; }
+
+  right-md-10 {
+    right: 10em; }
+
+  bottom-md-10 {
+    bottom: 10em; }
+
+  left-md-10 {
+    left: 10em; }
+
+  top-md-20 {
+    top: 20em; }
+
+  right-md-20 {
+    right: 20em; }
+
+  bottom-md-20 {
+    bottom: 20em; }
+
+  left-md-20 {
+    left: 20em; }
+
+  top-md-30 {
+    top: 30em; }
+
+  right-md-30 {
+    right: 30em; }
+
+  bottom-md-30 {
+    bottom: 30em; }
+
+  left-md-30 {
+    left: 30em; }
+
+  top-md-40 {
+    top: 40em; }
+
+  right-md-40 {
+    right: 40em; }
+
+  bottom-md-40 {
+    bottom: 40em; }
+
+  left-md-40 {
+    left: 40em; }
+
+  top-md-50 {
+    top: 50em; }
+
+  right-md-50 {
+    right: 50em; }
+
+  bottom-md-50 {
+    bottom: 50em; }
+
+  left-md-50 {
+    left: 50em; }
+
+  top-md-60 {
+    top: 60em; }
+
+  right-md-60 {
+    right: 60em; }
+
+  bottom-md-60 {
+    bottom: 60em; }
+
+  left-md-60 {
+    left: 60em; }
+
+  top-md-70 {
+    top: 70em; }
+
+  right-md-70 {
+    right: 70em; }
+
+  bottom-md-70 {
+    bottom: 70em; }
+
+  left-md-70 {
+    left: 70em; }
+
+  top-md-80 {
+    top: 80em; }
+
+  right-md-80 {
+    right: 80em; }
+
+  bottom-md-80 {
+    bottom: 80em; }
+
+  left-md-80 {
+    left: 80em; }
+
+  top-md-90 {
+    top: 90em; }
+
+  right-md-90 {
+    right: 90em; }
+
+  bottom-md-90 {
+    bottom: 90em; }
+
+  left-md-90 {
+    left: 90em; }
+
+  top-md-100 {
+    top: 100em; }
+
+  right-md-100 {
+    right: 100em; }
+
+  bottom-md-100 {
+    bottom: 100em; }
+
+  left-md-100 {
+    left: 100em; } }
+@media (min-width: 992px) {
+  top-lg-0 {
+    top: 0em; }
+
+  right-lg-0 {
+    right: 0em; }
+
+  bottom-lg-0 {
+    bottom: 0em; }
+
+  left-lg-0 {
+    left: 0em; }
+
+  top-lg-10 {
+    top: 10em; }
+
+  right-lg-10 {
+    right: 10em; }
+
+  bottom-lg-10 {
+    bottom: 10em; }
+
+  left-lg-10 {
+    left: 10em; }
+
+  top-lg-20 {
+    top: 20em; }
+
+  right-lg-20 {
+    right: 20em; }
+
+  bottom-lg-20 {
+    bottom: 20em; }
+
+  left-lg-20 {
+    left: 20em; }
+
+  top-lg-30 {
+    top: 30em; }
+
+  right-lg-30 {
+    right: 30em; }
+
+  bottom-lg-30 {
+    bottom: 30em; }
+
+  left-lg-30 {
+    left: 30em; }
+
+  top-lg-40 {
+    top: 40em; }
+
+  right-lg-40 {
+    right: 40em; }
+
+  bottom-lg-40 {
+    bottom: 40em; }
+
+  left-lg-40 {
+    left: 40em; }
+
+  top-lg-50 {
+    top: 50em; }
+
+  right-lg-50 {
+    right: 50em; }
+
+  bottom-lg-50 {
+    bottom: 50em; }
+
+  left-lg-50 {
+    left: 50em; }
+
+  top-lg-60 {
+    top: 60em; }
+
+  right-lg-60 {
+    right: 60em; }
+
+  bottom-lg-60 {
+    bottom: 60em; }
+
+  left-lg-60 {
+    left: 60em; }
+
+  top-lg-70 {
+    top: 70em; }
+
+  right-lg-70 {
+    right: 70em; }
+
+  bottom-lg-70 {
+    bottom: 70em; }
+
+  left-lg-70 {
+    left: 70em; }
+
+  top-lg-80 {
+    top: 80em; }
+
+  right-lg-80 {
+    right: 80em; }
+
+  bottom-lg-80 {
+    bottom: 80em; }
+
+  left-lg-80 {
+    left: 80em; }
+
+  top-lg-90 {
+    top: 90em; }
+
+  right-lg-90 {
+    right: 90em; }
+
+  bottom-lg-90 {
+    bottom: 90em; }
+
+  left-lg-90 {
+    left: 90em; }
+
+  top-lg-100 {
+    top: 100em; }
+
+  right-lg-100 {
+    right: 100em; }
+
+  bottom-lg-100 {
+    bottom: 100em; }
+
+  left-lg-100 {
+    left: 100em; } }
+@media (min-width: 1200px) {
+  top-xl-0 {
+    top: 0em; }
+
+  right-xl-0 {
+    right: 0em; }
+
+  bottom-xl-0 {
+    bottom: 0em; }
+
+  left-xl-0 {
+    left: 0em; }
+
+  top-xl-10 {
+    top: 10em; }
+
+  right-xl-10 {
+    right: 10em; }
+
+  bottom-xl-10 {
+    bottom: 10em; }
+
+  left-xl-10 {
+    left: 10em; }
+
+  top-xl-20 {
+    top: 20em; }
+
+  right-xl-20 {
+    right: 20em; }
+
+  bottom-xl-20 {
+    bottom: 20em; }
+
+  left-xl-20 {
+    left: 20em; }
+
+  top-xl-30 {
+    top: 30em; }
+
+  right-xl-30 {
+    right: 30em; }
+
+  bottom-xl-30 {
+    bottom: 30em; }
+
+  left-xl-30 {
+    left: 30em; }
+
+  top-xl-40 {
+    top: 40em; }
+
+  right-xl-40 {
+    right: 40em; }
+
+  bottom-xl-40 {
+    bottom: 40em; }
+
+  left-xl-40 {
+    left: 40em; }
+
+  top-xl-50 {
+    top: 50em; }
+
+  right-xl-50 {
+    right: 50em; }
+
+  bottom-xl-50 {
+    bottom: 50em; }
+
+  left-xl-50 {
+    left: 50em; }
+
+  top-xl-60 {
+    top: 60em; }
+
+  right-xl-60 {
+    right: 60em; }
+
+  bottom-xl-60 {
+    bottom: 60em; }
+
+  left-xl-60 {
+    left: 60em; }
+
+  top-xl-70 {
+    top: 70em; }
+
+  right-xl-70 {
+    right: 70em; }
+
+  bottom-xl-70 {
+    bottom: 70em; }
+
+  left-xl-70 {
+    left: 70em; }
+
+  top-xl-80 {
+    top: 80em; }
+
+  right-xl-80 {
+    right: 80em; }
+
+  bottom-xl-80 {
+    bottom: 80em; }
+
+  left-xl-80 {
+    left: 80em; }
+
+  top-xl-90 {
+    top: 90em; }
+
+  right-xl-90 {
+    right: 90em; }
+
+  bottom-xl-90 {
+    bottom: 90em; }
+
+  left-xl-90 {
+    left: 90em; }
+
+  top-xl-100 {
+    top: 100em; }
+
+  right-xl-100 {
+    right: 100em; }
+
+  bottom-xl-100 {
+    bottom: 100em; }
+
+  left-xl-100 {
+    left: 100em; } }
 .hero {
-  background-image: linear-gradient(0, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../crs/img/cover.jpg");
+  background-image: linear-gradient(0, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/cover.jpg");
   background-size: cover;
-  background-position: bottom; }
+  background-position: bottom;
+  height: 90vh; }
   .hero p {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; }
   .hero h2 {
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif; }
 
+@media (max-width: 768px) {
+  .hero h2 {
+    font-size: 3em; }
+  .hero p {
+    font-size: 2em; }
+  .hero a {
+    font-size: 1em;
+    width: 100%; }
+  .hero div, .hero a {
+    margin: 0 auto;
+    text-align: center; } }
+@media (max-width: 576px) {
+  .hero h2 {
+    font-size: 2em; }
+  .hero p {
+    font-size: 1em; }
+  .hero a {
+    font-size: 0.75em; } }
 nav .logo {
   height: 30px;
   width: 30px; }
@@ -4854,4 +5317,4 @@ nav .logo {
   width: 30px;
   height: 30px; }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=style.css.map */
