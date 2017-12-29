@@ -16,45 +16,45 @@
         <article class="row justify-content-around  align-items-center">
             <section class="col-md-7 col-sm-9 my-5">
                 <h3>Toyota Yaris iA</h3>
-                <p class="text-justify">Developed by Mazda, launched by Scion, and now marketed as a Toyota, the Yaris iA proves that subcompact cars can delight. A different model from the Toyota Yaris hatchback, the frisky iA sedan stands out in a segment filled with insubstantial models. It feels refined for this entry-level class, with a smooth and willing four-cylinder engine, slick six-speed automatic transmission, and relatively compliant ride.</p>
+                <p class="text-justify">Developed by Mazda, launched by Scion, and now marketed as a Toyota, the Yaris iA proves that subcompact cars can delight. A different model from the Toyota Yaris hatchback, the frisky iA sedan stands out in a segment filled with insubstantial models. Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptatum soluta quo cipit! It feels refined for this entry-level class, with a smooth and willing four-cylinder engine, slick six-speed automatic transmission, and relatively compliant ride.</p>
                 <a href="#" class="btn btn-outline-primary">Rent Now</a>
                 <a href="#"  class=" ml-3">More info</a>
             </section>
-            <section class="col-md-3 col-sm-9">
-                <img class="img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/car1.jpg" alt="preview of Toyota Yaris iA">
+            <section class="col-md-3 col-sm-9 mb-5">
+                <img class="img-thumbnail px-4" src="<?php bloginfo('template_url'); ?>/img/car1.jpg" alt="preview of Toyota Yaris iA">
             </section>
         </article>
         <article class="row justify-content-around  align-items-center">
-            <section class="col-md-7 col-sm-9 my-5">
+            <section class="col-md-7 col-sm-9 mb-5">
                 <h3>Mazda MX-5 Miata</h3>
                 <p class="text-justify">The Mazda MX-5 Miata is the embodiment of driving pleasure. Its alchemical formula has been honed since 1990, with the core ingredients consistently being a pliant four-cylinder engine, rear-wheel drive, sharp handling, and light weight. The real magic is in how the machine responds to the driver. The modest power is harnessed to great effect with a slick-shifting manual transmission with closely spaced gear ratios.</p>
                 <a href="#" class="btn btn-outline-primary">Rent Now</a>
                 <a href="#" class=" ml-3">More info</a>
             </section>
-            <section class="col-md-3 col-sm-9">
-                <img class="img-thumbnail"  src="<?php bloginfo('template_url'); ?>/img/car2.jpg" alt="preview of Mazda MX-5 Miata">
+            <section class="col-md-3 col-sm-9 mb-5">
+                <img class="img-thumbnail px-4"  src="<?php bloginfo('template_url'); ?>/img/car2.jpg" alt="preview of Mazda MX-5 Miata">
             </section>
         </article>
         <article class="row  justify-content-around align-items-center">
-            <section class="col-md-7 col-sm-9 my-5">
+            <section class="col-md-7 col-sm-9 mb-5">
                 <h3>Kia Optima</h3>
                 <p class="text-justify">Move over Honda Accord and Toyota Camry: The Kia Optima rocks the midsized sedan segment as a smart alternative to the me-too mainstream. It checks all of the right boxes for family-sedan buyers, with responsive handling, a steady ride and pleasant powertrain, short stopping distances, easy-to-use controls, and a roomy backseat.The Optima is a vehicle that delivers all of these virtues in a stylish that’s filled with features .</p>
                 <a href="#" class="btn btn-outline-primary">Rent Now</a>
                 <a href="#" class=" ml-3">More info</a>
             </section>
-            <section class="col-md-3 col-sm-9">
-                <img class="img-thumbnail"  src="<?php bloginfo('template_url'); ?>/img/car3.jpg" alt="preview of Kia Optima">
+            <section class="col-md-3 col-sm-9 mb-5">
+                <img class="img-thumbnail px-4"  src="<?php bloginfo('template_url'); ?>/img/car3.jpg" alt="preview of Kia Optima">
             </section>
         </article>
         <article class="row justify-content-around align-items-center">
-            <section class="col-md-7 col-sm-9 my-5">
+            <section class="col-md-7 col-sm-9 mb-5">
                 <h3>Chevrolet Impala</h3>
                 <p class="text-justify">The Impala continues to reign as the leading large sedan. Slide behind the wheel and you can see why. Roomy, supportive seats put you in the perfect position to access the intuitive controls. Despite its prodigious size, the Impala’s handling is responsive and secure. Road imperfections are effectively absorbed, resulting in a ride reminiscent of a pricier luxury sedan. The rear seat is roomy enough for three adults</p>
                 <a href="#" class="btn btn-outline-primary">Rent Now</a>
                 <a href="#" class=" ml-3">More info</a>
             </section>
             <section class="col-md-3 col-sm-9 mb-5">
-                <img class="img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/car4.jpg" alt="preview of Chevrolet Impala">
+                <img class="img-thumbnail px-4" src="<?php bloginfo('template_url'); ?>/img/car4.jpg" alt="preview of Chevrolet Impala">
             </section>
         </article>
     </section>
