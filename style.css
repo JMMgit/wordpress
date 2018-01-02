@@ -4585,7 +4585,7 @@ a.text-dark:focus, a.text-dark:hover {
   background-color: transparent;
   border: 0; }
 
-.visible {
+.visible, .sample:hover article, .sample2:hover article {
   visibility: visible !important; }
 
 .invisible {
@@ -4621,681 +4621,681 @@ a.text-dark:focus, a.text-dark:hover {
 .text-em-10 {
   font-size: 10em; }
 
-top-0 {
+.top-0 {
   top: 0em; }
 
-right-0 {
+.right-0 {
   right: 0em; }
 
-bottom-0 {
+.bottom-0 {
   bottom: 0em; }
 
-left-0 {
+.left-0 {
   left: 0em; }
 
-top-10 {
+.top-10 {
   top: 10em; }
 
-right-10 {
+.right-10 {
   right: 10em; }
 
-bottom-10 {
+.bottom-10 {
   bottom: 10em; }
 
-left-10 {
+.left-10 {
   left: 10em; }
 
-top-20 {
+.top-20 {
   top: 20em; }
 
-right-20 {
+.right-20 {
   right: 20em; }
 
-bottom-20 {
+.bottom-20 {
   bottom: 20em; }
 
-left-20 {
+.left-20 {
   left: 20em; }
 
-top-30 {
+.top-30 {
   top: 30em; }
 
-right-30 {
+.right-30 {
   right: 30em; }
 
-bottom-30 {
+.bottom-30 {
   bottom: 30em; }
 
-left-30 {
+.left-30 {
   left: 30em; }
 
-top-40 {
+.top-40 {
   top: 40em; }
 
-right-40 {
+.right-40 {
   right: 40em; }
 
-bottom-40 {
+.bottom-40 {
   bottom: 40em; }
 
-left-40 {
+.left-40 {
   left: 40em; }
 
-top-50 {
+.top-50 {
   top: 50em; }
 
-right-50 {
+.right-50 {
   right: 50em; }
 
-bottom-50 {
+.bottom-50 {
   bottom: 50em; }
 
-left-50 {
+.left-50 {
   left: 50em; }
 
-top-60 {
+.top-60 {
   top: 60em; }
 
-right-60 {
+.right-60 {
   right: 60em; }
 
-bottom-60 {
+.bottom-60 {
   bottom: 60em; }
 
-left-60 {
+.left-60 {
   left: 60em; }
 
-top-70 {
+.top-70 {
   top: 70em; }
 
-right-70 {
+.right-70 {
   right: 70em; }
 
-bottom-70 {
+.bottom-70 {
   bottom: 70em; }
 
-left-70 {
+.left-70 {
   left: 70em; }
 
-top-80 {
+.top-80 {
   top: 80em; }
 
-right-80 {
+.right-80 {
   right: 80em; }
 
-bottom-80 {
+.bottom-80 {
   bottom: 80em; }
 
-left-80 {
+.left-80 {
   left: 80em; }
 
-top-90 {
+.top-90 {
   top: 90em; }
 
-right-90 {
+.right-90 {
   right: 90em; }
 
-bottom-90 {
+.bottom-90 {
   bottom: 90em; }
 
-left-90 {
+.left-90 {
   left: 90em; }
 
-top-100 {
+.top-100 {
   top: 100em; }
 
-right-100 {
+.right-100 {
   right: 100em; }
 
-bottom-100 {
+.bottom-100 {
   bottom: 100em; }
 
-left-100 {
+.left-100 {
   left: 100em; }
 
 @media (min-width: 576px) {
-  top-sm-0 {
+  .top-sm-0 {
     top: 0em; }
 
-  right-sm-0 {
+  .right-sm-0 {
     right: 0em; }
 
-  bottom-sm-0 {
+  .bottom-sm-0 {
     bottom: 0em; }
 
-  left-sm-0 {
+  .left-sm-0 {
     left: 0em; }
 
-  top-sm-10 {
+  .top-sm-10 {
     top: 10em; }
 
-  right-sm-10 {
+  .right-sm-10 {
     right: 10em; }
 
-  bottom-sm-10 {
+  .bottom-sm-10 {
     bottom: 10em; }
 
-  left-sm-10 {
+  .left-sm-10 {
     left: 10em; }
 
-  top-sm-20 {
+  .top-sm-20 {
     top: 20em; }
 
-  right-sm-20 {
+  .right-sm-20 {
     right: 20em; }
 
-  bottom-sm-20 {
+  .bottom-sm-20 {
     bottom: 20em; }
 
-  left-sm-20 {
+  .left-sm-20 {
     left: 20em; }
 
-  top-sm-30 {
+  .top-sm-30 {
     top: 30em; }
 
-  right-sm-30 {
+  .right-sm-30 {
     right: 30em; }
 
-  bottom-sm-30 {
+  .bottom-sm-30 {
     bottom: 30em; }
 
-  left-sm-30 {
+  .left-sm-30 {
     left: 30em; }
 
-  top-sm-40 {
+  .top-sm-40 {
     top: 40em; }
 
-  right-sm-40 {
+  .right-sm-40 {
     right: 40em; }
 
-  bottom-sm-40 {
+  .bottom-sm-40 {
     bottom: 40em; }
 
-  left-sm-40 {
+  .left-sm-40 {
     left: 40em; }
 
-  top-sm-50 {
+  .top-sm-50 {
     top: 50em; }
 
-  right-sm-50 {
+  .right-sm-50 {
     right: 50em; }
 
-  bottom-sm-50 {
+  .bottom-sm-50 {
     bottom: 50em; }
 
-  left-sm-50 {
+  .left-sm-50 {
     left: 50em; }
 
-  top-sm-60 {
+  .top-sm-60 {
     top: 60em; }
 
-  right-sm-60 {
+  .right-sm-60 {
     right: 60em; }
 
-  bottom-sm-60 {
+  .bottom-sm-60 {
     bottom: 60em; }
 
-  left-sm-60 {
+  .left-sm-60 {
     left: 60em; }
 
-  top-sm-70 {
+  .top-sm-70 {
     top: 70em; }
 
-  right-sm-70 {
+  .right-sm-70 {
     right: 70em; }
 
-  bottom-sm-70 {
+  .bottom-sm-70 {
     bottom: 70em; }
 
-  left-sm-70 {
+  .left-sm-70 {
     left: 70em; }
 
-  top-sm-80 {
+  .top-sm-80 {
     top: 80em; }
 
-  right-sm-80 {
+  .right-sm-80 {
     right: 80em; }
 
-  bottom-sm-80 {
+  .bottom-sm-80 {
     bottom: 80em; }
 
-  left-sm-80 {
+  .left-sm-80 {
     left: 80em; }
 
-  top-sm-90 {
+  .top-sm-90 {
     top: 90em; }
 
-  right-sm-90 {
+  .right-sm-90 {
     right: 90em; }
 
-  bottom-sm-90 {
+  .bottom-sm-90 {
     bottom: 90em; }
 
-  left-sm-90 {
+  .left-sm-90 {
     left: 90em; }
 
-  top-sm-100 {
+  .top-sm-100 {
     top: 100em; }
 
-  right-sm-100 {
+  .right-sm-100 {
     right: 100em; }
 
-  bottom-sm-100 {
+  .bottom-sm-100 {
     bottom: 100em; }
 
-  left-sm-100 {
+  .left-sm-100 {
     left: 100em; } }
 @media (min-width: 768px) {
-  top-md-0 {
+  .top-md-0 {
     top: 0em; }
 
-  right-md-0 {
+  .right-md-0 {
     right: 0em; }
 
-  bottom-md-0 {
+  .bottom-md-0 {
     bottom: 0em; }
 
-  left-md-0 {
+  .left-md-0 {
     left: 0em; }
 
-  top-md-10 {
+  .top-md-10 {
     top: 10em; }
 
-  right-md-10 {
+  .right-md-10 {
     right: 10em; }
 
-  bottom-md-10 {
+  .bottom-md-10 {
     bottom: 10em; }
 
-  left-md-10 {
+  .left-md-10 {
     left: 10em; }
 
-  top-md-20 {
+  .top-md-20 {
     top: 20em; }
 
-  right-md-20 {
+  .right-md-20 {
     right: 20em; }
 
-  bottom-md-20 {
+  .bottom-md-20 {
     bottom: 20em; }
 
-  left-md-20 {
+  .left-md-20 {
     left: 20em; }
 
-  top-md-30 {
+  .top-md-30 {
     top: 30em; }
 
-  right-md-30 {
+  .right-md-30 {
     right: 30em; }
 
-  bottom-md-30 {
+  .bottom-md-30 {
     bottom: 30em; }
 
-  left-md-30 {
+  .left-md-30 {
     left: 30em; }
 
-  top-md-40 {
+  .top-md-40 {
     top: 40em; }
 
-  right-md-40 {
+  .right-md-40 {
     right: 40em; }
 
-  bottom-md-40 {
+  .bottom-md-40 {
     bottom: 40em; }
 
-  left-md-40 {
+  .left-md-40 {
     left: 40em; }
 
-  top-md-50 {
+  .top-md-50 {
     top: 50em; }
 
-  right-md-50 {
+  .right-md-50 {
     right: 50em; }
 
-  bottom-md-50 {
+  .bottom-md-50 {
     bottom: 50em; }
 
-  left-md-50 {
+  .left-md-50 {
     left: 50em; }
 
-  top-md-60 {
+  .top-md-60 {
     top: 60em; }
 
-  right-md-60 {
+  .right-md-60 {
     right: 60em; }
 
-  bottom-md-60 {
+  .bottom-md-60 {
     bottom: 60em; }
 
-  left-md-60 {
+  .left-md-60 {
     left: 60em; }
 
-  top-md-70 {
+  .top-md-70 {
     top: 70em; }
 
-  right-md-70 {
+  .right-md-70 {
     right: 70em; }
 
-  bottom-md-70 {
+  .bottom-md-70 {
     bottom: 70em; }
 
-  left-md-70 {
+  .left-md-70 {
     left: 70em; }
 
-  top-md-80 {
+  .top-md-80 {
     top: 80em; }
 
-  right-md-80 {
+  .right-md-80 {
     right: 80em; }
 
-  bottom-md-80 {
+  .bottom-md-80 {
     bottom: 80em; }
 
-  left-md-80 {
+  .left-md-80 {
     left: 80em; }
 
-  top-md-90 {
+  .top-md-90 {
     top: 90em; }
 
-  right-md-90 {
+  .right-md-90 {
     right: 90em; }
 
-  bottom-md-90 {
+  .bottom-md-90 {
     bottom: 90em; }
 
-  left-md-90 {
+  .left-md-90 {
     left: 90em; }
 
-  top-md-100 {
+  .top-md-100 {
     top: 100em; }
 
-  right-md-100 {
+  .right-md-100 {
     right: 100em; }
 
-  bottom-md-100 {
+  .bottom-md-100 {
     bottom: 100em; }
 
-  left-md-100 {
+  .left-md-100 {
     left: 100em; } }
 @media (min-width: 992px) {
-  top-lg-0 {
+  .top-lg-0 {
     top: 0em; }
 
-  right-lg-0 {
+  .right-lg-0 {
     right: 0em; }
 
-  bottom-lg-0 {
+  .bottom-lg-0 {
     bottom: 0em; }
 
-  left-lg-0 {
+  .left-lg-0 {
     left: 0em; }
 
-  top-lg-10 {
+  .top-lg-10 {
     top: 10em; }
 
-  right-lg-10 {
+  .right-lg-10 {
     right: 10em; }
 
-  bottom-lg-10 {
+  .bottom-lg-10 {
     bottom: 10em; }
 
-  left-lg-10 {
+  .left-lg-10 {
     left: 10em; }
 
-  top-lg-20 {
+  .top-lg-20 {
     top: 20em; }
 
-  right-lg-20 {
+  .right-lg-20 {
     right: 20em; }
 
-  bottom-lg-20 {
+  .bottom-lg-20 {
     bottom: 20em; }
 
-  left-lg-20 {
+  .left-lg-20 {
     left: 20em; }
 
-  top-lg-30 {
+  .top-lg-30 {
     top: 30em; }
 
-  right-lg-30 {
+  .right-lg-30 {
     right: 30em; }
 
-  bottom-lg-30 {
+  .bottom-lg-30 {
     bottom: 30em; }
 
-  left-lg-30 {
+  .left-lg-30 {
     left: 30em; }
 
-  top-lg-40 {
+  .top-lg-40 {
     top: 40em; }
 
-  right-lg-40 {
+  .right-lg-40 {
     right: 40em; }
 
-  bottom-lg-40 {
+  .bottom-lg-40 {
     bottom: 40em; }
 
-  left-lg-40 {
+  .left-lg-40 {
     left: 40em; }
 
-  top-lg-50 {
+  .top-lg-50 {
     top: 50em; }
 
-  right-lg-50 {
+  .right-lg-50 {
     right: 50em; }
 
-  bottom-lg-50 {
+  .bottom-lg-50 {
     bottom: 50em; }
 
-  left-lg-50 {
+  .left-lg-50 {
     left: 50em; }
 
-  top-lg-60 {
+  .top-lg-60 {
     top: 60em; }
 
-  right-lg-60 {
+  .right-lg-60 {
     right: 60em; }
 
-  bottom-lg-60 {
+  .bottom-lg-60 {
     bottom: 60em; }
 
-  left-lg-60 {
+  .left-lg-60 {
     left: 60em; }
 
-  top-lg-70 {
+  .top-lg-70 {
     top: 70em; }
 
-  right-lg-70 {
+  .right-lg-70 {
     right: 70em; }
 
-  bottom-lg-70 {
+  .bottom-lg-70 {
     bottom: 70em; }
 
-  left-lg-70 {
+  .left-lg-70 {
     left: 70em; }
 
-  top-lg-80 {
+  .top-lg-80 {
     top: 80em; }
 
-  right-lg-80 {
+  .right-lg-80 {
     right: 80em; }
 
-  bottom-lg-80 {
+  .bottom-lg-80 {
     bottom: 80em; }
 
-  left-lg-80 {
+  .left-lg-80 {
     left: 80em; }
 
-  top-lg-90 {
+  .top-lg-90 {
     top: 90em; }
 
-  right-lg-90 {
+  .right-lg-90 {
     right: 90em; }
 
-  bottom-lg-90 {
+  .bottom-lg-90 {
     bottom: 90em; }
 
-  left-lg-90 {
+  .left-lg-90 {
     left: 90em; }
 
-  top-lg-100 {
+  .top-lg-100 {
     top: 100em; }
 
-  right-lg-100 {
+  .right-lg-100 {
     right: 100em; }
 
-  bottom-lg-100 {
+  .bottom-lg-100 {
     bottom: 100em; }
 
-  left-lg-100 {
+  .left-lg-100 {
     left: 100em; } }
 @media (min-width: 1200px) {
-  top-xl-0 {
+  .top-xl-0 {
     top: 0em; }
 
-  right-xl-0 {
+  .right-xl-0 {
     right: 0em; }
 
-  bottom-xl-0 {
+  .bottom-xl-0 {
     bottom: 0em; }
 
-  left-xl-0 {
+  .left-xl-0 {
     left: 0em; }
 
-  top-xl-10 {
+  .top-xl-10 {
     top: 10em; }
 
-  right-xl-10 {
+  .right-xl-10 {
     right: 10em; }
 
-  bottom-xl-10 {
+  .bottom-xl-10 {
     bottom: 10em; }
 
-  left-xl-10 {
+  .left-xl-10 {
     left: 10em; }
 
-  top-xl-20 {
+  .top-xl-20 {
     top: 20em; }
 
-  right-xl-20 {
+  .right-xl-20 {
     right: 20em; }
 
-  bottom-xl-20 {
+  .bottom-xl-20 {
     bottom: 20em; }
 
-  left-xl-20 {
+  .left-xl-20 {
     left: 20em; }
 
-  top-xl-30 {
+  .top-xl-30 {
     top: 30em; }
 
-  right-xl-30 {
+  .right-xl-30 {
     right: 30em; }
 
-  bottom-xl-30 {
+  .bottom-xl-30 {
     bottom: 30em; }
 
-  left-xl-30 {
+  .left-xl-30 {
     left: 30em; }
 
-  top-xl-40 {
+  .top-xl-40 {
     top: 40em; }
 
-  right-xl-40 {
+  .right-xl-40 {
     right: 40em; }
 
-  bottom-xl-40 {
+  .bottom-xl-40 {
     bottom: 40em; }
 
-  left-xl-40 {
+  .left-xl-40 {
     left: 40em; }
 
-  top-xl-50 {
+  .top-xl-50 {
     top: 50em; }
 
-  right-xl-50 {
+  .right-xl-50 {
     right: 50em; }
 
-  bottom-xl-50 {
+  .bottom-xl-50 {
     bottom: 50em; }
 
-  left-xl-50 {
+  .left-xl-50 {
     left: 50em; }
 
-  top-xl-60 {
+  .top-xl-60 {
     top: 60em; }
 
-  right-xl-60 {
+  .right-xl-60 {
     right: 60em; }
 
-  bottom-xl-60 {
+  .bottom-xl-60 {
     bottom: 60em; }
 
-  left-xl-60 {
+  .left-xl-60 {
     left: 60em; }
 
-  top-xl-70 {
+  .top-xl-70 {
     top: 70em; }
 
-  right-xl-70 {
+  .right-xl-70 {
     right: 70em; }
 
-  bottom-xl-70 {
+  .bottom-xl-70 {
     bottom: 70em; }
 
-  left-xl-70 {
+  .left-xl-70 {
     left: 70em; }
 
-  top-xl-80 {
+  .top-xl-80 {
     top: 80em; }
 
-  right-xl-80 {
+  .right-xl-80 {
     right: 80em; }
 
-  bottom-xl-80 {
+  .bottom-xl-80 {
     bottom: 80em; }
 
-  left-xl-80 {
+  .left-xl-80 {
     left: 80em; }
 
-  top-xl-90 {
+  .top-xl-90 {
     top: 90em; }
 
-  right-xl-90 {
+  .right-xl-90 {
     right: 90em; }
 
-  bottom-xl-90 {
+  .bottom-xl-90 {
     bottom: 90em; }
 
-  left-xl-90 {
+  .left-xl-90 {
     left: 90em; }
 
-  top-xl-100 {
+  .top-xl-100 {
     top: 100em; }
 
-  right-xl-100 {
+  .right-xl-100 {
     right: 100em; }
 
-  bottom-xl-100 {
+  .bottom-xl-100 {
     bottom: 100em; }
 
-  left-xl-100 {
+  .left-xl-100 {
     left: 100em; } }
 .hero {
-  background-image: linear-gradient(0, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/cover.jpg");
+  background-image: linear-gradient(0, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("img/cover.png");
   background-size: cover;
-  background-position: bottom;
+  background-position: top;
   height: 90vh; }
   .hero p {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; }
   .hero h2 {
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif; }
 
-@media (max-width: 768px) {
+@media (max-width: 945px) {
   .hero h2 {
-    font-size: 3em; }
+    font-size: 2.5em; }
   .hero p {
-    font-size: 2em; }
+    font-size: 1.5em; }
   .hero a {
     font-size: 1em;
     width: 100%; }
@@ -5304,11 +5304,15 @@ left-100 {
     text-align: center; } }
 @media (max-width: 576px) {
   .hero h2 {
-    font-size: 2em; }
+    font-size: 2.2em; }
   .hero p {
-    font-size: 1em; }
+    font-size: 1.2em; }
   .hero a {
     font-size: 0.75em; } }
+.frame {
+  height: 300px;
+  width: 600px; }
+
 nav .logo {
   height: 30px;
   width: 30px; }

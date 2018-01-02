@@ -1,0 +1,16 @@
+.frame{
+    height: 300px;
+    width: 600px;
+}
+
+.sample:hover{
+    article{
+        @extend .visible;
+    }
+}
+
+.sample2:hover{
+    article{
+        @extend .visible;
+    }
+}

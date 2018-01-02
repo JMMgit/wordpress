@@ -2,7 +2,7 @@ $position: top, right, bottom, left;
 
 @for $i from 0 through 10{
   @each $pos in $position {
-    #{$pos}-#{$i*10}{
+    .#{$pos}-#{$i*10}{
       #{$pos}:#{$i*10}em;
     }
   }
@@ -11,7 +11,7 @@ $position: top, right, bottom, left;
 @media (min-width: 576px){
   @for $i from 0 through 10{
     @each $pos in $position {
-      #{$pos}-sm-#{$i*10}{
+      .#{$pos}-sm-#{$i*10}{
         #{$pos}:#{$i*10}em;
     }
    }
@@ -21,7 +21,7 @@ $position: top, right, bottom, left;
 @media (min-width: 768px){
   @for $i from 0 through 10{
     @each $pos in $position {
-      #{$pos}-md-#{$i*10}{
+      .#{$pos}-md-#{$i*10}{
         #{$pos}:#{$i*10}em;
     }
    }
@@ -31,8 +31,8 @@ $position: top, right, bottom, left;
 @media (min-width: 992px){
   @for $i from 0 through 10{
     @each $pos in $position {
-      #{$pos}-lg-#{$i*10}{
-        #{$pos}:#{$i*10}em;
+      .#{$pos}-lg-#{$i*10}{
+        #{$pos}:#{$i*10}em
     }
    }
   }
@@ -41,8 +41,8 @@ $position: top, right, bottom, left;
 @media (min-width: 1200px){
   @for $i from 0 through 10{
     @each $pos in $position {
-      #{$pos}-xl-#{$i*10}{
-        #{$pos}:#{$i*10}em;
+      .#{$pos}-xl-#{$i*10}{
+        #{$pos}:#{$i*10}em
     }
    }
   }

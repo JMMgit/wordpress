@@ -1,60 +1,97 @@
 <?php get_header(); ?>
 <main>
-    <section class="hero text-light d-flex flex-column align-items-end">
-        <div class="w-50 my-auto d-flex flex-column">
-            <h2 class=" text-em-5">DRIVE and ENJOY</h2>
-            <p class="text-em-2 font-weight-light">The most trusted and the Best Car Rental Company in the world. Sign Up now to have an access to limited edition cars</p>
-            <a class="btn btn-outline-light btn-lg font-weight-normal w-50" href="#">REGISTER</a>
+    <section class="hero text-light d-flex flex-column align-items-start pl-3">
+        <div class="w-50 my-auto d-flex flex-column text-center align-items-center">
+            <h2 class=" text-em-4 font-weight-normal">SPEAK ENGLISH WELL</h2>
+            <p class="text-em-2 font-weight-light">Study English language in the comfort of your home. Sign Up now to access our limited time free 30 minutes session for first timers. </p>
+            <a class="btn btn-outline-light btn-lg font-weight-normal w-50" href="#">Start Now</a>
         </div>
+    </section>
+    <section class="container-fluid">
+        <section class="row">
+            <div class="col text-center">
+                <h2 class="text-em-2 m-5 font-weight-light">HOW IT WORKS</h2>
+            </div>
+        </section>
+        <section class="row  justify-content-around align-items-center px-2 mb-5">
+            <article class="col-md-2 text-center p-0">
+                <img class="w-50" src="<?php bloginfo('template_url'); ?>/img/register.png" alt="register icon">
+                <h3 class="my-3">Register</h3>
+                <p class="text-center mb-5">Register with a valid email address, your email will be used as username</p>
+            </article>
+            <article class="col-md-2 text-center p-0">
+                <img class="w-50" src="<?php bloginfo('template_url'); ?>/img/book.png" alt="book icon">
+                <h3 class="my-3">Book a Lesson</h3>
+                <p class="text-center mb-5">Choose a Teacher and then find an avaible slot and book your lesson </p>
+            </article>
+            <article class="col-md-2 text-center p-0">
+                <img class="w-50" src="<?php bloginfo('template_url'); ?>/img/payment.png" alt="payment icon">
+                <h3 class="my-3">Payment</h3>
+                <p class="text-center mb-5">Choose a payment method its either debit card, paypal, and credit card</p>
+            </article>
+            <article class="col-md-2 text-center p-0">
+                <img class="w-50" src="<?php bloginfo('template_url'); ?>/img/learn.png" alt="learn icon">
+                <h3 class="my-3">Learn</h3>
+                <p class="text-center mb-5">Start learning online, be sure to be online in your specified date and time</p>
+            </article>
+        </section>
     </section>
     <section class="container-fluid">
         <article class="row">
             <div class="col text-center bg-light">
-                <h2 class="text-em-2 m-5 font-weight-light">Featured Cars</h2>
+                <h2 class="text-em-2 m-5 font-weight-light">Featured Teachers</h2>
             </div>
         </article>
-        <article class="row justify-content-around  align-items-center">
-            <section class="col-md-7 col-sm-9 my-5">
-                <h3>Toyota Yaris iA</h3>
-                <p class="text-justify">Developed by Mazda, launched by Scion, and now marketed as a Toyota, the Yaris iA proves that subcompact cars can delight. A different model from the Toyota Yaris hatchback, the frisky iA sedan stands out in a segment filled with insubstantial models. Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptatum soluta quo cipit! It feels refined for this entry-level class, with a smooth and willing four-cylinder engine, slick six-speed automatic transmission, and relatively compliant ride.</p>
-                <a href="#" class="btn btn-outline-primary">Rent Now</a>
-                <a href="#"  class=" ml-3">More info</a>
+        <article class="row justify-content-around  align-items-center pt-5">
+            <section class="col-md-5 col-sm-9 mb-5">
+                <iframe class="frame img-thumbnail" src="https://www.youtube.com/embed/fl_WhyatL10?showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </section>
-            <section class="col-md-3 col-sm-9 mb-5">
-                <img class="img-thumbnail px-4" src="<?php bloginfo('template_url'); ?>/img/car1.jpg" alt="preview of Toyota Yaris iA">
+            <section class="col-md-5 col-sm-9 mb-5">
+                <h3>Jasmin</h3>
+                <p class="text-muted font-weight-light">3 years experience</p>
+                <p class="text-muted font-weight-light">Bachelor of Computer Science</p>
+                <p class="text-justify">Hello! I'm Teacher Aliana. I have been teaching English to Koreans and Japanese for a year now, and I could say this is the most excitingthing to do. I have met many different types of students with interesting and unique personalities. I really love sharing my knowledge and helping my students to improve their communicaion skills</p>
+                <a href="#" class="btn btn-outline-primary">Book Lesson</a>
+                <a href="#"  class=" ml-3">More info</a>
             </section>
         </article>
         <article class="row justify-content-around  align-items-center">
-            <section class="col-md-7 col-sm-9 mb-5">
-                <h3>Mazda MX-5 Miata</h3>
-                <p class="text-justify">The Mazda MX-5 Miata is the embodiment of driving pleasure. Its alchemical formula has been honed since 1990, with the core ingredients consistently being a pliant four-cylinder engine, rear-wheel drive, sharp handling, and light weight. The real magic is in how the machine responds to the driver. The modest power is harnessed to great effect with a slick-shifting manual transmission with closely spaced gear ratios.</p>
-                <a href="#" class="btn btn-outline-primary">Rent Now</a>
-                <a href="#" class=" ml-3">More info</a>
+            <section class="col-md-5 col-sm-9 mb-5">
+                <iframe class="frame img-thumbnail"  src="https://www.youtube.com/embed/A_aGpRwS-XA?showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </section>
-            <section class="col-md-3 col-sm-9 mb-5">
-                <img class="img-thumbnail px-4"  src="<?php bloginfo('template_url'); ?>/img/car2.jpg" alt="preview of Mazda MX-5 Miata">
+            <section class="col-md-5 col-sm-9 mb-5">
+                <h3>Jessica</h3>
+                <p class="text-muted font-weight-light">5 years experience</p>
+                <p class="text-muted font-weight-light">BA in Production Management</p>
+                <p class="text-justify">Hello everyone! I'm teacher Jessica and I love teaching students. I have also experiencedcommunicatingwithdifferent people around the globeespecially in the USA, Canada, Australia and somecountries in Europe.Let's improve your grammar, pronunciation and vocabulary. See you in my class!!!</p>
+                <a href="#" class="btn btn-outline-primary">Book Lesson</a>
+                <a href="#" class=" ml-3">More info</a>
             </section>
         </article>
         <article class="row  justify-content-around align-items-center">
-            <section class="col-md-7 col-sm-9 mb-5">
-                <h3>Kia Optima</h3>
-                <p class="text-justify">Move over Honda Accord and Toyota Camry: The Kia Optima rocks the midsized sedan segment as a smart alternative to the me-too mainstream. It checks all of the right boxes for family-sedan buyers, with responsive handling, a steady ride and pleasant powertrain, short stopping distances, easy-to-use controls, and a roomy backseat.The Optima is a vehicle that delivers all of these virtues in a stylish that’s filled with features .</p>
-                <a href="#" class="btn btn-outline-primary">Rent Now</a>
-                <a href="#" class=" ml-3">More info</a>
+            <section class="col-md-5 col-sm-9 mb-5">
+                <iframe class="frame img-thumbnail" src="https://www.youtube.com/embed/5Su1Eto5wls?showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </section>
-            <section class="col-md-3 col-sm-9 mb-5">
-                <img class="img-thumbnail px-4"  src="<?php bloginfo('template_url'); ?>/img/car3.jpg" alt="preview of Kia Optima">
+            <section class="col-md-5 col-sm-9 mb-5">
+                <h3>Mary</h3>
+                <p class="text-muted font-weight-light">4 years experience</p>
+                <p class="text-muted font-weight-light">Bachelor of Psychology</p>
+                <p class="text-justify">Good day, students! This is Teacher Mary. I have been teaching English for three years now. It is great to see students have fun in learning English by doing different activities in class. I make sure that my students improve their English skills by having active lessons with me. In my free time, I try to learn more about English by watching American shows and movies. I hope you could do the same thing. I can't wait to have lessons with you. Let's see each other in class!</p>
+                <a href="#" class="btn btn-outline-primary">Book Lesson</a>
+                <a href="#" class=" ml-3">More info</a>
             </section>
         </article>
         <article class="row justify-content-around align-items-center">
-            <section class="col-md-7 col-sm-9 mb-5">
-                <h3>Chevrolet Impala</h3>
-                <p class="text-justify">The Impala continues to reign as the leading large sedan. Slide behind the wheel and you can see why. Roomy, supportive seats put you in the perfect position to access the intuitive controls. Despite its prodigious size, the Impala’s handling is responsive and secure. Road imperfections are effectively absorbed, resulting in a ride reminiscent of a pricier luxury sedan. The rear seat is roomy enough for three adults</p>
-                <a href="#" class="btn btn-outline-primary">Rent Now</a>
-                <a href="#" class=" ml-3">More info</a>
+            <section class="col-md-5 col-sm-9 mb-5">
+                <iframe class="frame img-thumbnail" src="https://www.youtube.com/embed/8ksl2A-c36o?showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </section>
-            <section class="col-md-3 col-sm-9 mb-5">
-                <img class="img-thumbnail px-4" src="<?php bloginfo('template_url'); ?>/img/car4.jpg" alt="preview of Chevrolet Impala">
+            <section class="col-md-5 col-sm-9 mb-5">
+                <h3>Rose</h3>
+                <p class="text-muted font-weight-light">3 years experience</p>
+                <p class="text-muted font-weight-light">Bachelor of English Education</p>
+                <p class="text-justify">Hello students! I am Rose.I have been teaching English for two years and I have already experienced this job. Always remember that confidence in speaking conquers all and I am here to help you out. Learning English should not be boring so let's do it in an enjoyable way together. See you!</p>
+                <a href="#" class="btn btn-outline-primary">Book Lesson</a>
+                <a href="#" class=" ml-3">More info</a>
             </section>
         </article>
     </section>
@@ -64,36 +101,36 @@
                 <h2 class="text-em-2 m-5 font-weight-light">WHY CHOOSE US?</h2>
             </div>
         </section>
-        <section class="row  justify-content-around align-items-center bg-info py-5 px-1">
+        <section class="row  justify-content-around align-items-center bg-light py-5 px-1">
             <article class="col-md-3 text-center col-sm-9">
-                <img class="w-50" src="<?php bloginfo('template_url'); ?>/img/cheap.png" alt="secured">
-                <h3 class="my-3">Cheap</h3>
-                <p class="text-justify">We have the lowest price that a rental company can offer without compromising the quality. Lorem ipsum  consectetur adipisicing elit. Tempore, soluta.</p>
+                <img class="w-50" src="<?php bloginfo('template_url'); ?>/img/like.png" alt="secured">
+                <h3 class="my-3">Availability</h3>
+                <p class="text-justify">Expect that you can always access this site in every devices, and you will always find a schedule that will fit your Availability. Lorem ipsum  consectetur adipisicing elit. Tempore, soluta.</p>
             </article>
             <article class="col-md-3 text-center col-sm-9">
-                <img class="w-50" src="<?php bloginfo('template_url'); ?>/img/fast.png" alt="fast">
-                <h3 class="my-3">Fast</h3>
-                <p class="text-justify">We use the most advanced technology to better serve you. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, soluta.</p>
+                <img class="w-50" src="<?php bloginfo('template_url'); ?>/img/user.png" alt="fast">
+                <h3 class="my-3">Professionalism</h3>
+                <p class="text-justify">Our teachers has a lot of experience in teaching english for many years. So Expect high standards from them amet consectetur adipisicing elit. Tempore, soluta.</p>
             </article>
             <article class="col-md-3 text-center col-sm-9">
-                <img class="w-50" src="<?php bloginfo('template_url'); ?>/img/quality.png" alt="high quality">
-                <h3 class="my-3">High Quality</h3>
-                <p class="text-justify">We can Gurantee that our service is high standard. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, soluta.</p>
+                <img class="w-50" src="<?php bloginfo('template_url'); ?>/img/settings.png" alt="high quality">
+                <h3 class="my-3">Support</h3>
+                <p class="text-justify">We can Gurantee that our support is always Available. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, soluta. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, cum.</p>
             </article>
         </section>
     </section>
     <section class="container-fluid">
         <div class="row ">
-            <div class="col text-center bg-light">
+            <div class="col text-center bg-info">
                 <h2 class="text-em-2 m-5 font-weight-light">Customer Reviews</h2>
             </div>
         </div>
-            <article class="row  my-5 justify-content-around align-items-center">
+            <article class="row  my-5 justify-content-center align-items-center">
                 <div class="col-md-2 col-sm-10">
-                    <img class="w-100 img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/profile1.jpeg" alt="profile photo">
+                    <img class="w-100 border border-info rounded" src="<?php bloginfo('template_url'); ?>/img/profile1.jpeg" alt="profile photo">
                 </div>
                 <div class="col-md-2 col-sm-10 my-3">
-                    <h3>John Smith</h3>
+                    <h3>Mary Smith</h3>
                     <p class="text-muted">last 2 weeks</p>
                     <div class="rating">
                         <img class="img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/star.png" alt="star">
@@ -103,16 +140,16 @@
                         <img class="img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/black-star.png" alt="nonstar">
                     </div>   
                 </div>
-                <div class="col-md-5 col-sm-10">
-                    <p>I sent in an inquiry about returning my car early and getting a refund so we’ll see how you handle that situation but even so I got an additional $89 charge from hertz which is a significant extra, they said these are charges not included in price but your website</p>
+                <div class="col-md-7 col-sm-10">
+                    <p>I'm starting a month of honesty last month. This is the first time I've ever heard of English, most important. No matter what the textbook is, or the course is about. After five tests, Saramu chose Cassie from the Good Talk. I really like the personality is calm, and I am following a lot of people. Maybe I'll keep on doing things until I do not tell him that he will stop. Thanks to my child.</p>
                 </div>
             </article>
-            <article class="row  my-5 justify-content-around align-items-center">
+            <article class="row  my-5 justify-content-center align-items-center">
                 <div class="col-md-2 col-sm-10">
-                    <img class="w-100 img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/profile2.jpeg" alt="profile photo">
+                    <img class="w-100 border border-info rounded" src="<?php bloginfo('template_url'); ?>/img/profile2.jpeg" alt="profile photo">
                 </div>
                 <div class="col-md-2 col-sm-10 my-3">
-                    <h3>Edward Collins</h3>
+                    <h3>Marco Dela Cruz</h3>
                     <p class="text-muted">last 2 months</p>
                     <div class="rating">
                         <img class="img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/star.png" alt="star">
@@ -122,16 +159,16 @@
                         <img class="img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/star.png" alt="star">
                     </div>                    
                 </div>
-                <div class="col-md-5 col-sm-10">
-                    <p>A confirmation email directly from the company is a standard nowadays but a phone call with the confirmation that a car would be ready... that was really nice. Certainly, the company wanted to ensure my understanding that the office would be closed on Saturday after 6PM... still that was kind of nice and polite gesture .</p>
+                <div class="col-md-7 col-sm-10">
+                    <p>Good morning. I started studying at a foreign university a year ago and now I am working in a foreign trade company and I am still listening to my classes while I am at work. I originally had TOEIC English but I never really had conversations with foreigners. . I was very confident when I was in school, especially when I graduated from college to college. But I think I need English conversation too. I know the theory, but I do not know how to do it.</p>
                 </div>
             </article>
-            <article class="row  my-5 justify-content-around align-items-center">
+            <article class="row  my-5 justify-content-center align-items-center">
                 <div class="col-md-2 col-sm-10">
-                    <img class="w-100 img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/profile3.jpeg" alt="profile photo">
+                    <img class="w-100 border border-info rounded" src="<?php bloginfo('template_url'); ?>/img/profile3.jpeg" alt="profile photo">
                 </div>
                 <div class="col-md-2 col-sm-10 my-3">
-                    <h3>sheila anderson</h3>
+                    <h3>Sheila anderson</h3>
                     <p class="text-muted">last 3 months</p>
                     <div class="rating">
                         <img class="img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/star.png" alt="star">
@@ -141,16 +178,16 @@
                         <img class="img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/star.png" alt="star">
                     </div>                    
                 </div>
-                <div class="col-md-5 col-sm-10">
-                    <p>Booking process was easy, transfers at airport easy. Not sure if rental car extra insurance is worthwhile didn't have time to look into it. Didn't get actual car we had reserved, but that was down to car hire company not rentalcars.com</p>
+                <div class="col-md-7 col-sm-10">
+                    <p>Now it 's been about four months since the formation began. I was thinking about trying to increase my time because I liked my child very much because I was trying to learn elementary school and had a lot of trouble in English education. I like the fact that the teachers are focusing on the child only because the English language is good. I like the fact that the teachers are able to concentrate on the class and teach me. </p>
                 </div>
             </article>
-            <article class="row  my-5 justify-content-around align-items-center">
+            <article class="row  my-5 justify-content-center align-items-center">
                 <div class="col-md-2 col-sm-10">
-                    <img class="img-thumbnail w-100"  src="<?php bloginfo('template_url'); ?>/img/profile4.jpeg" alt="profile photo">
+                    <img class="border border-info rounded w-100"  src="<?php bloginfo('template_url'); ?>/img/profile4.jpeg" alt="profile photo">
                 </div>
                 <div class="col-md-2 col-sm-10 my-3">
-                    <h3>Mary Smith</h3>
+                    <h3>John Smith</h3>
                     <p class="text-muted">last 5 months</p>
                     <div class="rating">
                         <img class="img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/star.png" alt="star">
@@ -160,8 +197,8 @@
                         <img class="img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/star.png" alt="star">
                     </div>                     
                 </div>
-                <div class="col-md-5 col-sm-10">
-                    <p>Upon my arrival to Ottawa my luggage was delayed ‎and Branch staff and the manager, they waited for me and didn't close their place. I really appreciate that because I had to drive to another city and Ottawa wasn't my final destination! </p>
+                <div class="col-md-7 col-sm-10">
+                    <p>Good morning. Thanks to Guttok, I succeeded in finding employment in the first half of the year. Originally, TOEIC score and the book are all ready, but I slipped in English interview in the first half of last year. And I have to worry about how to prepare for interview in English. I have been working for one of the companies I wanted to go to this year, after six months of interviewing. </p>
                 </div>
             </article>
     </section>
