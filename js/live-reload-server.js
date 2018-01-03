@@ -1,7 +1,7 @@
 var express = require('express');
 var app = express();
 var http = require('http').Server(app);
-http.listen(30,()=>console.log('listening on port 30'));
+http.listen(3030,()=>console.log('listening on port 3030'));
 var chokidar = require('chokidar');
 var io = require('socket.io')(http);
 

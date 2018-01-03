@@ -13,16 +13,17 @@
 @import "vendors/bootstrap/dropdown";
 @import "vendors/bootstrap/nav";
 @import "vendors/bootstrap/navbar";
-@import "vendors/bootstrap/card";
+@import "vendors/bootstrap/tables";
 @import "vendors/bootstrap/utilities";
+@import "vendors/bootstrap/pagination";
+
 
 //custom
-@import 'utilities/index';
 @import 'modules/hero';
 @import 'modules/iframe';
 @import 'modules/nav';
 @import 'modules/rating';
-
+@import 'modules/support';
 
 
 

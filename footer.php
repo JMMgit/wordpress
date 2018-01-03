@@ -65,6 +65,7 @@
     <section class="row justify-content-center mt-3">
         <p>&copy;CopyRight 2017. All Rights Reserved</p>
     </section>
+    <a href="#" class="support position-fixed"></a>
     <?php wp_footer(); ?>
 </footer>
 </body>
