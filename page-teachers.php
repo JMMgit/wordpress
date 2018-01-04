@@ -6,7 +6,7 @@ get_header();
 ?>
 <main>
 <section class="container align-content-center">
-    <div class="row border border-dark rounded p-4 text-center mt-5">
+    <div class="row border bg-light rounded p-4 text-center mt-5">
         <div class="col">
             <h1 class="banner-dark">Find a Teacher</h1>
         </div>
@@ -57,8 +57,8 @@ get_header();
                     <tr>
                         <th class="cell" scope="row">1pm</th>
                         <td class="cell"></td>
-                        <td class="cell bg-success"></td>
-                        <td class="cell bg-success"></td>
+                        <td data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                        <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
@@ -67,8 +67,8 @@ get_header();
                     <tr>
                         <th class="cell" scope="row">2pm</th>
                         <td class="cell"></td>
-                        <td class="cell bg-success"></td>
-                        <td class="cell bg-success"></td>
+                        <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                        <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
@@ -77,8 +77,8 @@ get_header();
                     <tr>
                         <th class="cell" scope="row">3pm</th>
                         <td class="cell"></td>
-                        <td class="cell bg-success"></td>
-                        <td class="cell bg-success"></td>
+                        <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                        <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
@@ -89,7 +89,7 @@ get_header();
                         <td class="cell"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
-                        <td class="cell bg-success"></td>
+                        <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
@@ -98,7 +98,7 @@ get_header();
                         <th class="cell" scope="row">5pm</th>
                         <td class="cell"></td>
                         <td class="cell"></td>
-                        <td class="cell bg-success"></td>
+                        <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
@@ -108,11 +108,11 @@ get_header();
                         <th class="cell" scope="row">6pm</th>
                         <td class="cell"></td>
                         <td class="cell"></td>
-                        <td class="cell bg-success"></td>
+                        <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
                         <td class="cell"></td>
-                        <td class="cell bg-success"></td>
+                        <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                     </tr>
                 </tbody>
             </table>
@@ -164,8 +164,8 @@ get_header();
                         <tr>
                             <th class="cell" scope="row">1pm</th>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
@@ -174,8 +174,8 @@ get_header();
                         <tr>
                             <th class="cell" scope="row">2pm</th>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
@@ -184,8 +184,8 @@ get_header();
                         <tr>
                             <th class="cell" scope="row">3pm</th>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
@@ -196,7 +196,7 @@ get_header();
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
@@ -205,7 +205,7 @@ get_header();
                             <th class="cell" scope="row">5pm</th>
                             <td class="cell"></td>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
@@ -215,11 +215,11 @@ get_header();
                             <th class="cell" scope="row">6pm</th>
                             <td class="cell"></td>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                         </tr>
                     </tbody>
                 </table>
@@ -271,8 +271,8 @@ get_header();
                         <tr>
                             <th class="cell" scope="row">1pm</th>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
@@ -281,8 +281,8 @@ get_header();
                         <tr>
                             <th class="cell" scope="row">2pm</th>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
@@ -291,8 +291,8 @@ get_header();
                         <tr>
                             <th class="cell" scope="row">3pm</th>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
@@ -303,7 +303,7 @@ get_header();
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
@@ -312,7 +312,7 @@ get_header();
                             <th class="cell" scope="row">5pm</th>
                             <td class="cell"></td>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
@@ -322,11 +322,11 @@ get_header();
                             <th class="cell" scope="row">6pm</th>
                             <td class="cell"></td>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
                             <td class="cell"></td>
-                            <td class="cell bg-success"></td>
+                            <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                         </tr>
                     </tbody>
                 </table>
@@ -378,8 +378,8 @@ get_header();
                             <tr>
                                 <th class="cell" scope="row">1pm</th>
                                 <td class="cell"></td>
-                                <td class="cell bg-success"></td>
-                                <td class="cell bg-success"></td>
+                                <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                                <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
@@ -388,8 +388,8 @@ get_header();
                             <tr>
                                 <th class="cell" scope="row">2pm</th>
                                 <td class="cell"></td>
-                                <td class="cell bg-success"></td>
-                                <td class="cell bg-success"></td>
+                                <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                                <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
@@ -398,8 +398,8 @@ get_header();
                             <tr>
                                 <th class="cell" scope="row">3pm</th>
                                 <td class="cell"></td>
-                                <td class="cell bg-success"></td>
-                                <td class="cell bg-success"></td>
+                                <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
+                                <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
@@ -410,7 +410,7 @@ get_header();
                                 <td class="cell"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
-                                <td class="cell bg-success"></td>
+                                <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
@@ -419,7 +419,7 @@ get_header();
                                 <th class="cell" scope="row">5pm</th>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
-                                <td class="cell bg-success"></td>
+                                <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
@@ -429,11 +429,11 @@ get_header();
                                 <th class="cell" scope="row">6pm</th>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
-                                <td class="cell bg-success"></td>
+                                <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
                                 <td class="cell"></td>
-                                <td class="cell bg-success"></td>
+                                <td  data-toggle="tooltip" data-placement="top" title="Available" class="cell bg-success"></td>
                             </tr>
                         </tbody>
                     </table>
