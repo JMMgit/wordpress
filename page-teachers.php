@@ -6,9 +6,9 @@ get_header();
 ?>
 <main>
 <section class="container align-content-center">
-    <div class="row rounded bg-primary p-4 text-center mt-5">
+    <div class="row border border-dark rounded p-4 text-center mt-5">
         <div class="col">
-            <h1 class="font-weight-light text-light">Find a Teacher</h1>
+            <h1 class="banner-dark">Find a Teacher</h1>
         </div>
     </div>
     <div class="row border border-secondary rounded p-3 justify-content-around align-items-center sample my-5">

@@ -1,0 +1,9 @@
+.banner{
+    font-family: "Courier New", Courier, monospace;
+    font-size: 4em;
+
+    &-dark{
+        font-family: Impact;
+        font-size: 3em;
+    }
+}

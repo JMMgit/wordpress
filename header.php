@@ -17,7 +17,7 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav">
-                <li class="nav-item active"><a class="nav-link" href="<?php echo home_url(); ?>/">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/teachers">Teachers</a></li>
                 <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/about">About Us</a></li>
                 <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/faq">FAQ</a></li>
