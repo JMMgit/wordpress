@@ -39,7 +39,7 @@
     <section class="container border rounded bg-light mt-5 px-5">
         <article class="row">
             <div class="col text-center">
-                <h2 class="banner-dark font-weight-normal m-5 text-info">FEATURED TEACHERS</h2>
+                <h2 class="banner-dark font-weight-light m-5">FEATURED TEACHERS</h2>
             </div>
         </article>
         <article class="row justify-content-around  align-items-center">
@@ -47,9 +47,9 @@
                 <iframe class="frame img-thumbnail" src="https://www.youtube.com/embed/fl_WhyatL10?showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </section>
             <section class="col-md-7 col-sm-9 mb-5">
-                <h3 class="font-weight-normal">Jasmin</h3>
-                <p class="font-weight-bold d-inline-block py-2 px-5 border border-success text-success">3 years experience</p>
-                <p class="font-weight-bold d-inline-block py-2 px-5 border border-success text-success">Bachelor of Computer Science</p>
+                <h3 class="font-weight-normal">Jasmin Mendoza</h3>
+                <p class="font-weight-bold d-inline-block py-2 px-5 border rounded bg-success text-light">3 years experience</p>
+                <p class="font-weight-bold d-inline-block py-2 px-5 border rounded bg-success text-light">Bachelor of Computer Science</p>
                 <p class="text-justify">Hello! I'm Teacher Aliana. I have been teaching English to Koreans and Japanese for a year now, and I could say this is the most excitingthing to do. I have met many different types of students with interesting and unique personalities. I really love sharing my knowledge and helping my students to improve their communicaion skills</p>
                 <a href="#" class="btn btn-outline-primary">Book Lesson</a>
                 <a href="#"  class=" ml-4">More info</a>
@@ -60,9 +60,9 @@
                 <iframe class="frame img-thumbnail"  src="https://www.youtube.com/embed/A_aGpRwS-XA?showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </section>
             <section class="col-md-7 col-sm-9 mb-5">
-                <h3 class="font-weight-normal">Jessica</h3>
-                <p class="font-weight-bold d-inline-block py-2 px-5 border border-success text-success">5 years experience</p>
-                <p class="font-weight-bold d-inline-block py-2 px-5 border border-success text-success">BA in Production Management</p>
+                <h3 class="font-weight-normal">Jessica Smith</h3>
+                <p class="font-weight-bold d-inline-block py-2 px-5 border rounded bg-success text-light">5 years experience</p>
+                <p class="font-weight-bold d-inline-block py-2 px-5 border rounded bg-success text-light">BA in Production Management</p>
                 <p class="text-justify">Hello everyone! I'm teacher Jessica and I love teaching students. I have also experiencedcommunicatingwithdifferent people around the globeespecially in the USA, Canada, Australia and somecountries in Europe.Let's improve your grammar, pronunciation and vocabulary. See you in my class!!! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sint optio reprehenderit eaque dicta? Maiores non at cumque vero unde.</p>
                 <a href="#" class="btn btn-outline-primary">Book Lesson</a>
                 <a href="#" class=" ml-3">More info</a>
@@ -73,9 +73,9 @@
                 <iframe class="frame img-thumbnail" src="https://www.youtube.com/embed/5Su1Eto5wls?showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </section>
             <section class="col-md-7 col-sm-9 mb-5">
-                <h3 class="font-weight-normal">Mary</h3>
-                <p class="font-weight-bold d-inline-block py-2 px-5 border border-success text-success">4 years experience</p>
-                <p class="font-weight-bold d-inline-block py-2 px-5 border border-success text-success">Bachelor of Psychology</p>
+                <h3 class="font-weight-normal">Mary Mendoza</h3>
+                <p class="font-weight-bold d-inline-block py-2 px-5 border rounded bg-success text-light">4 years experience</p>
+                <p class="font-weight-bold d-inline-block py-2 px-5 border rounded bg-success text-light">Bachelor of Psychology</p>
                 <p class="text-justify">Good day, students! This is Teacher Mary. I have been teaching English for three years now. It is great to see students have fun in learning English by doing different activities in class. I make sure that my students improve their English skills by having active lessons with me. In my free time, I try to learn more about English by watching American shows and movies. I hope you could do the same thing. I can't wait to have lessons with you. Let's see each other in class!</p>
                 <a href="#" class="btn btn-outline-primary">Book Lesson</a>
                 <a href="#" class=" ml-3">More info</a>
@@ -86,9 +86,9 @@
                 <iframe class="frame img-thumbnail" src="https://www.youtube.com/embed/8ksl2A-c36o?showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </section>
             <section class="col-md-7 col-sm-9 mb-5">
-                <h3 class="font-weight-normal">Rose</h3>
-                <p class="font-weight-bold d-inline-block py-2 px-5 border border-success text-success">3 years experience</p>
-                <p class="font-weight-bold d-inline-block py-2 px-5 border border-success text-success">Bachelor of English Education</p>
+                <h3 class="font-weight-normal">Rose Cruz</h3>
+                <p class="font-weight-bold d-inline-block py-2 px-5 border rounded bg-success text-light">3 years experience</p>
+                <p class="font-weight-bold d-inline-block py-2 px-5 border rounded bg-success text-light">Bachelor of English Education</p>
                 <p class="text-justify">Hello students! I am Rose.I have been teaching English for two years and I have already experienced this job. Always remember that confidence in speaking conquers all and I am here to help you out. Learning English should not be boring so let's do it in an enjoyable way together. See you!</p>
                 <a href="#" class="btn btn-outline-primary">Book Lesson</a>
                 <a href="#" class=" ml-3">More info</a>
@@ -122,7 +122,7 @@
     <section class="container border rounded bg-light my-5">
         <div class="row">
             <div class="col text-center">
-                <h2 class="banner-dark font-weight-normal m-5 text-info">CUSTOMER REVIEWS</h2>
+                <h2 class="banner-dark font-weight-normal m-5">CUSTOMER REVIEWS</h2>
             </div>
         </div>
             <article class="row mb-5 justify-content-center">

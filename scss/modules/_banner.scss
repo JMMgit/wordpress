@@ -3,7 +3,22 @@
     font-size: 4em;
 
     &-dark{
-        font-family: Impact;
+        font-family: "calibri light","Impact","Arial";
         font-size: 3em;
     }
+
+    &-custom{
+        font-family: 'Times New Roman', Times, serif, sans-serif;
+        font-size: 4em; 
+        letter-spacing: .1em;
+    }
+}
+
+.decor{
+    width: 2em;
+}
+
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
 }

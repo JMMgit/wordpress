@@ -8,7 +8,7 @@ get_header();
 <section class="container align-content-center">
     <div class="row border bg-light rounded p-4 text-center mt-5">
         <div class="col">
-            <h1 class="banner-dark">Find a Teacher</h1>
+            <h1 class="banner-dark font-weight-light text-info">Find a Teacher</h1>
         </div>
     </div>
     <div class="row border border-secondary rounded p-3 justify-content-around align-items-center sample my-5">
