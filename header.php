@@ -18,11 +18,11 @@
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item active"><a class="nav-link" href="<?php echo home_url(); ?>/">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/?page_id=22">Teachers</a></li>
-                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/?page_id=13">About Us</a></li>
-                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/?page_id=18">FAQ</a></li>
-                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/?page_id=15">Contact</a></li>
-                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/?page_id=20">Login</a></li>
+                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/teachers">Teachers</a></li>
+                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/about">About Us</a></li>
+                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/faq">FAQ</a></li>
+                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/contact">Contact</a></li>
+                <li class="nav-item"><a class="nav-link" href="<?php echo home_url(); ?>/login">Login</a></li>
             </ul>
         </div>
     </nav>
