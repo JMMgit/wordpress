@@ -4,8 +4,14 @@
  */
 get_header();
 ?>
-<main class="w-100 border bg-light">
-<section class="container p-5 my-5">
+<main class="w-100 h-100 border bg-light">
+<section class="container p-5 mb-5">
+    <div class="row justify-content-center">
+        <div class="col-md-2 col-sm-5 mb-4">
+            <img class="w-100 img-thumbnail" src="<?php bloginfo('template_url'); ?>/img/logo.png" alt="">
+            <h3 class="text-center mt-2">GoodTalk</h3>
+        </div>
+    </div>
     <div class="row justify-content-center">
         <section class="border rounded-left bg-white col-md-6 col-sm-12 d-flex flex-column align-items-center rounded text-center py-5">
             <form action="">
