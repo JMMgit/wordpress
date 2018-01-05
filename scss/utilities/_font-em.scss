@@ -1,0 +1,9 @@
+@for $i from 1 through 10{
+    .font-em-#{$i}{
+        font-size:#{$i}em
+    }
+
+    .font-em-#{$i}_5{
+        font-size: #{$i}em
+    }
+}

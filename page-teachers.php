@@ -6,11 +6,6 @@ get_header();
 ?>
 <main>
 <section class="container align-content-center">
-    <div class="row border bg-light rounded p-4 text-center mt-5">
-        <div class="col">
-            <h1 class="banner-dark font-weight-light text-info">Find a Teacher</h1>
-        </div>
-    </div>
     <div class="row border border-secondary rounded p-3 justify-content-around align-items-center sample my-5">
         <article class="col-lg-3 col-md-12 text-center">
             <section>
@@ -52,7 +47,7 @@ get_header();
                     <th class="cell" scope="col">Thu</th>
                     <th class="cell" scope="col">Fri</th>
                     <th class="cell" scope="col">Sat</th>
-                </thead>
+                </thead>               
                 <tbody>
                     <tr>
                         <th class="cell" scope="row">1pm</th>

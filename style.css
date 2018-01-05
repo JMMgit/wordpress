@@ -4835,21 +4835,83 @@ nav .logo {
   height: 50vh; }
 
 .banner {
-  font-family: "Courier New", Courier, monospace;
-  font-size: 4em; }
+  font-family: "Courier New", Courier, monospace; }
   .banner-dark {
-    font-family: "calibri light","Impact","Arial";
-    font-size: 3em; }
+    font-family: "calibri light", "Impact", "Arial"; }
   .banner-custom {
     font-family: 'Times New Roman', Times, serif, sans-serif;
-    font-size: 4em;
     letter-spacing: .1em; }
 
 .decor {
   width: 2em; }
 
 .para {
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 1.5em; }
+  font-family: 'Times New Roman', Times, serif; }
+
+.faq {
+  background-image: url("img/faq.png");
+  background-size: cover;
+  background-position: top;
+  height: 60vh; }
+
+.font-em-1 {
+  font-size: 1em; }
+
+.font-em-1_5 {
+  font-size: 1em; }
+
+.font-em-2 {
+  font-size: 2em; }
+
+.font-em-2_5 {
+  font-size: 2em; }
+
+.font-em-3 {
+  font-size: 3em; }
+
+.font-em-3_5 {
+  font-size: 3em; }
+
+.font-em-4 {
+  font-size: 4em; }
+
+.font-em-4_5 {
+  font-size: 4em; }
+
+.font-em-5 {
+  font-size: 5em; }
+
+.font-em-5_5 {
+  font-size: 5em; }
+
+.font-em-6 {
+  font-size: 6em; }
+
+.font-em-6_5 {
+  font-size: 6em; }
+
+.font-em-7 {
+  font-size: 7em; }
+
+.font-em-7_5 {
+  font-size: 7em; }
+
+.font-em-8 {
+  font-size: 8em; }
+
+.font-em-8_5 {
+  font-size: 8em; }
+
+.font-em-9 {
+  font-size: 9em; }
+
+.font-em-9_5 {
+  font-size: 9em; }
+
+.font-em-10 {
+  font-size: 10em; }
+
+.font-em-10_5 {
+  font-size: 10em; }
 
 /*# sourceMappingURL=style.css.map */

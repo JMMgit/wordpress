@@ -15,25 +15,25 @@ get_header();
 
     <article class="container mt-5">
         <div class="row align-items-center my-4">
-            <div class="col-md-6">
+            <div class="col-md-6 order-md-1 order-2">
                 <h2 class="font-weight-normal">Mission</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae commodi repudiandae perspiciatis exercitationem maiores laboriosam laborum ut? Consectetur, a, minima, rerum architecto natus accusantium adipisci doloribus repellat itaque quaerat enim sapiente similique illum vel reiciendis distinctio tenetur animi rem dolor aliquid asperiores. Veritatis exercitationem modi aspernatur nesciunt dicta qui porro.</p>                
           </div>
-            <div class="col-md-6"><img class="w-100" src="<?php bloginfo('template_url'); ?>/img/mission.jpeg" alt="mission"></div>
+            <div class="col-md-6 order-md-2 order-1"><img class="w-100" src="<?php bloginfo('template_url'); ?>/img/mission.jpeg" alt="mission"></div>
         </div>
         <div class="row align-items-center my-4">
-            <div class="col-md-6"><img class="w-100" src="<?php bloginfo('template_url'); ?>/img/company.jpeg" alt="mission"></div>
-            <div class="col-md-6">
+            <div class="col-md-6 order-md-3 order-3"><img class="w-100" src="<?php bloginfo('template_url'); ?>/img/company.jpeg" alt="mission"></div>
+            <div class="col-md-6 order-md-4 order-4">
                 <h2 class="font-weight-normal">The Company</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae commodi repudiandae perspiciatis exercitationem maiores laboriosam laborum ut? Consectetur, a, minima, rerum architecto natus accusantium adipisci doloribus repellat itaque quaerat enim sapiente similique illum vel reiciendis distinctio tenetur animi rem dolor aliquid asperiores. Veritatis exercitationem modi aspernatur nesciunt dicta qui porro.</p>                
             </div>
         </div>
         <div class="row align-items-center my-4 pb-5">
-            <div class="col-md-6">
+            <div class="col-md-6 order-md-5 order-6">
                 <h2 class="font-weight-normal">Our Story</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae commodi repudiandae perspiciatis exercitationem maiores laboriosam laborum ut? Consectetur, a, minima, rerum architecto natus accusantium adipisci doloribus repellat itaque quaerat enim sapiente similique illum vel reiciendis distinctio tenetur animi rem dolor aliquid asperiores. Veritatis exercitationem modi aspernatur nesciunt dicta qui porro.</p>                
             </div>
-            <div class="col-md-6"><img class="w-100" src="<?php bloginfo('template_url'); ?>/img/story.jpeg" alt="mission"></div>
+            <div class="col-md-6 order-md-6 order-5"><img class="w-100" src="<?php bloginfo('template_url'); ?>/img/story.jpeg" alt="mission"></div>
         </div>
     </article>
 </main>
