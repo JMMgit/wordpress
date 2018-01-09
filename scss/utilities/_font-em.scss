@@ -1,9 +1,31 @@
 @for $i from 1 through 10{
-    .font-em-#{$i}{
-        font-size:#{$i}em
-    }
+    .font-em-#{$i}{ font-size:#{$i}em}
 
-    .font-em-#{$i}_5{
-        font-size: #{$i*1.5}em
-    }
+    .font-em-#{$i}_5{ font-size: #{$i*1.5}em}
+
+    .font-em-#{$i}_25{ font-size: #{$i*1.25}em}
+
+    @media (min-width: 576px) { 
+        .font-em-sm-#{$i}{ font-size:#{$i}em}
+        .font-em-sm-#{$i}_5{ font-size: #{$i*1.5}em}
+        .font-em-sm-#{$i}_25{ font-size: #{$i*1.25}em}
+     }
+
+     @media (min-width: 768px) { 
+        .font-em-md-#{$i}{ font-size:#{$i}em}
+        .font-em-md-#{$i}_5{ font-size: #{$i*1.5}em}
+        .font-em-md-#{$i}_25{ font-size: #{$i*1.25}em}
+     }
+
+     @media (min-width: 992px) { 
+        .font-em-lg-#{$i}{ font-size:#{$i}em}
+        .font-em-lg-#{$i}_5{ font-size: #{$i*1.5}em}
+        .font-em-lg-#{$i}_25{ font-size: #{$i*1.25}em}
+     }
+
+     @media (min-width: 1200px) { 
+        .font-em-xl-#{$i}{ font-size:#{$i}em}
+        .font-em-xl-#{$i}_5{ font-size: #{$i*1.5}em}
+        .font-em-xl-#{$i}_25{ font-size: #{$i*1.25}em}
+     }
 }

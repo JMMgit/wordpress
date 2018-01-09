@@ -9,7 +9,7 @@
                     <a class="btn btn-outline-light btn-lg font-weight-bold w-50" href="#">Start Now</a>
                 </section>
                 <div class="col-md-6 text-center">
-                    <img class="invi w-75" src="<?php bloginfo('template_url'); ?>/img/pc.png" alt="cover photo">
+                    <img class="invi w-75" src="<?php bloginfo('template_url'); ?>/img/building.png" alt="cover photo">
                 </div>
             </div>
         </section>
@@ -18,22 +18,22 @@
         <article class="container text-white py-5">
             <div class="row align-items-center my-4">
                 <div class="col-md-6 order-md-1 order-2">
-                    <h2 class="font-weight-normal my-3">Learn anyway you wan't</h2>
-                    <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae commodi repudiandae perspiciatis exercitationem maiores laboriosam laborum ut? Consectetur, a, minima, rerum architecto natus accusantium adipisci doloribus repellat itaque quaerat enim sapiente similique illum vel reiciendis distinctio tenetur animi rem dolor aliquid asperiores. Veritatis exercitationem modi aspernatur nesciunt dicta qui porro.</p>                
+                    <h2 class=" my-3 font-em-md-2">Learn anyway you wan't</h2>
+                    <p class="font-em-md-1_25">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum quidem labore, possimus ut facere amet ea ad, velit recusandae voluptatibus ducimus consectetur quos aut cumque praesentium cupiditate sunt quam illo sunt quam?</p>                
                 </div>
                 <div class="col-md-6 order-md-2 order-1"><img class="box-shadow rounded w-100" src="<?php bloginfo('template_url'); ?>/img/mission.jpeg" alt="mission"></div>
             </div>
             <div class="row align-items-center my-4">
                 <div class="col-md-6 order-md-3 order-3"><img class="box-shadow rounded rounded w-100" src="<?php bloginfo('template_url'); ?>/img/company.jpeg" alt="mission"></div>
                 <div class="col-md-6 order-md-4 order-4">
-                    <h2 class="font-weight-normal my-3">Self-paced learning</h2>
-                    <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae commodi repudiandae perspiciatis exercitationem maiores laboriosam laborum ut? Consectetur, a, minima, rerum architecto natus accusantium adipisci doloribus repellat itaque quaerat enim sapiente similique illum vel reiciendis distinctio tenetur animi rem dolor aliquid asperiores. Veritatis exercitationem modi aspernatur nesciunt dicta qui porro.</p>                
+                    <h2 class="my-3 font-em-md-2">Self-paced learning</h2>
+                    <p class="font-em-md-1_25">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt fugit ipsa iste iure deleniti consectetur provident rem mollitia similique quod sit, earum consequuntur perferendis porro quidem autem labore nobis impedit?</p>                
                 </div>
             </div>
             <div class="row align-items-center my-4 pb-5">
                 <div class="col-md-6 order-md-5 order-6">
-                    <h2 class="font-weight-normal my-3">Customized lessons</h2>
-                    <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae commodi repudiandae perspiciatis exercitationem maiores laboriosam laborum ut? Consectetur, a, minima, rerum architecto natus accusantium adipisci doloribus repellat itaque quaerat enim sapiente similique illum vel reiciendis distinctio tenetur animi rem dolor aliquid asperiores. Veritatis exercitationem modi aspernatur nesciunt dicta qui porro.</p>                
+                    <h2 class="my-3 font-em-md-2">Customized lessons</h2>
+                    <p class="font-em-md-1_25">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi nesciunt esse natus ut vitae optio tenetur consequatur tempore sunt doloribus amet atque iste, laudantium recusandae? Possimus architecto tempore quibusdam laborum!</p>                
                 </div>
                 <div class="col-md-6 order-md-6 order-5"><img class="box-shadow rounded  rounded w-100" src="<?php bloginfo('template_url'); ?>/img/story.jpeg" alt="mission"></div>
             </div>
@@ -41,18 +41,18 @@
     </div>
     <div class="bg-light py-5">       
     <section class="container">
-        <section class="row text-info justify-content-around align-items-center py-5 px-4">
-            <article class="col-md-4 text-center col-sm-9">
+        <section class="row text-info justify-content-around align-items-center py-2 px-4">
+            <article class="col-md-4 text-center col-sm-9  py-3">
                 <i class="w-25 h-50 fas fa-user"></i>
                 <h3 class="my-3">Thousands of Teachers</h3>
                 <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet iure doloribus . Eveniet iure doloribus laborum id ipsum quis.</p>
             </article>
-            <article class="col-md-4 text-center col-sm-9">
+            <article class="col-md-4 text-center col-sm-9  py-3">
                 <i class="w-25 h-50 fas  fa-cog"></i>
                 <h3 class="my-3">Technical Support</h3>
                 <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat pariatur quasi perferendis fugiat ab nostrum?</p>
             </article>
-            <article class="col-md-4 text-center col-sm-9">
+            <article class="col-md-4 text-center col-sm-9 p-3">
                 <i class="w-25 h-50 fas fa-check-circle"></i>
                 <h3 class="my-3">Professionalism</h3>
                 <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere aspernatur quasi impedit nesciunt asperiores quia.</p>
@@ -129,7 +129,12 @@
     </div>
         
     <div class="bg-water pb-3 pt-5">
-    <section class="container p-5">
+    <section class="container">
+        <div class="row pb-5">
+            <div class="col">
+                <h2 class="text-light text-center font-em-md-3 border p-3 box-shadow rounded">Featured Teachers</h2>
+            </div>
+        </div>
         <article class="row justify-content-around  align-items-center">
             <section class="col-md-6 col-sm-12 mb-5">
                 <iframe class="frame w-100 box-shadow rounded border-0" src="https://www.youtube.com/embed/fl_WhyatL10?showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
