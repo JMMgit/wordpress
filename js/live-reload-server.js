@@ -9,3 +9,4 @@ var io = require('socket.io')(http);
 chokidar.watch(require('path').join(__dirname, '/../'), {ignored: /(^|[\/\\])\../}).on('all', () => {
   io.emit('file-change-event');
 });
+

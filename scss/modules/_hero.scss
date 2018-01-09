@@ -1,44 +1,36 @@
 .hero{
-    background-image: linear-gradient(0 ,rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('img/cover.png');
-    background-size: cover;
-    background-position:top;
     height: 90vh;
 
     p{
-        font-size: 2em;
         font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
     }
 
     h1{
-        font-size: 5em;
         font-family: Impact,'Arial Narrow Bold', sans-serif
     }
 }
 
 @media (max-width: 945px){
     .hero{
-        h1{font-size: 2.5em}
-
-        p{font-size: 1.5em}
-
-        a{
-            font-size: 1em;
-            width: 100%;
+        h1{
+            font-size: 3em!important;
         }
-
-        div,a{
-            margin: 0 auto;
-            text-align: center;
+    
+        p{
+            font-size: 1.5em!important;
         }
     }
 }
 
-@media (max-width: 576px){
+@media (max-width: 767px){
     .hero{
-        h1{font-size: 2.2em}
+        h1,p{ text-align: center }
 
-        p{ font-size: 1.2em}
+        a{margin: 0 auto}
+    }
 
-        a{ font-size: 0.75em }
+    .invi{
+        position: absolute;
+        display: none;
     }
 }

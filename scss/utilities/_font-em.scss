@@ -4,6 +4,6 @@
     }
 
     .font-em-#{$i}_5{
-        font-size: #{$i}em
+        font-size: #{$i*1.5}em
     }
 }

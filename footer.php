@@ -63,9 +63,8 @@
             </section>
     </section>
     <section class="row justify-content-center mt-3">
-        <p>&copy;CopyRight 2017. All Rights Reserved</p>
+        <p>&copy;CopyRight 2017. All Rights Reserved, <div>Icons made by <a href="https://www.flaticon.com/authors/maxim-basinski" title="Maxim Basinski">Maxim Basinski</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div></p>
     </section>
-    <a href="#" class="support position-fixed"></a>
     <?php wp_footer(); ?>
 </footer>
 </body>

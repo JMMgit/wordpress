@@ -1,4 +1,7 @@
 
+//custom, first because of custom colors
+@import 'utilities/index';
+
 //Include parts of Bootstrap
 @import "vendors/bootstrap/functions";
 @import "vendors/bootstrap/variables";
@@ -17,11 +20,12 @@
 @import "vendors/bootstrap/utilities";
 @import "vendors/bootstrap/pagination";
 @import "vendors/bootstrap/tooltip";
+@import "vendors/bootstrap/carousel";
 
 
 //custom
 @import 'modules/index';
-@import 'utilities/font-em';
+@import 'states/btn';
 
-
+//https://www.canva.com/learn/website-color-schemes/ #29
 
