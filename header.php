@@ -9,7 +9,7 @@
     <link rel="icon" type="image/png" href="<?php bloginfo('template_url'); ?>/img/logo.png">
 </head>
 <body>
-<header class="box-shadow bg-light">
+<header class="box-shadow bg-light fixed-top">
     <div class="container">
         <div class="row">
             <nav class="col navbar navbar-expand-lg navbar-light">
