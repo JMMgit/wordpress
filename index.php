@@ -9,7 +9,7 @@
                     <a class="btn btn-outline-light btn-lg font-weight-bold w-50" href="#">Start Now</a>
                 </section>
                 <div class="col-md-6 text-center">
-                    <img class="invi w-50" src="<?php bloginfo('template_url'); ?>/img/puzzle.png" alt="cover photo">
+                    <img class="invi w-75" src="<?php bloginfo('template_url'); ?>/img/pc.png" alt="cover photo">
                 </div>
             </div>
         </section>
